@@ -1,3 +1,5 @@
+<a href="https://discord.gg/CXtqUZv"><img src="https://kygekraqmak.github.io/kygek-development.png"></a>
+
 ## Hi there 👋
 
 I'm Kygekraqmak (or KygekDev). Here are facts about me:
