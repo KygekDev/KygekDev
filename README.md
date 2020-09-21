@@ -14,7 +14,7 @@ I'm Kygekraqmak (or KygekDev). Here are facts about me:
 
 - KygekJoinUI <a href="https://poggit.pmmp.io/p/KygekJoinUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekJoinUI"></a>
 - KygekRulesUI <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI"></a>
-- KygekEasyGamemode <a href="https://kygekdownloads.freecluster.eu/kygekeasygamemode"><img src="https://poggit.pmmp.io/shield.dl.total/KygekEasyGamemode"></a>
+- KygekEasyGamemode <a href="http://kygekdownloads.freecluster.eu/kygekeasygamemode"><img src="https://poggit.pmmp.io/shield.dl.total/KygekEasyGamemode"></a>
 - KygekPingTPS <a href="https://poggit.pmmp.io/p/KygekPingTPS"><img src="https://poggit.pmmp.io/shield.dl.total/KygekPingTPS"></a>
 - KygekRanksUI <a href="https://poggit.pmmp.io/p/KygekRanksUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRanksUI"></a>
 - PerWorldPlayersList <a href="https://poggit.pmmp.io/p/PerWorldPlayersList"><img src="https://poggit.pmmp.io/shield.dl.total/PerWorldPlayersList"></a>
