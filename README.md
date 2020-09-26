@@ -12,6 +12,8 @@ I'm Kygekraqmak (or KygekDev). Here are facts about me:
 
 ## Plugins
 
+### Visit my <a href="http://kygekdownloads.freecluster.eu">website</a> for a list of all of my plugins.
+
 - KygekJoinUI <a href="https://poggit.pmmp.io/p/KygekJoinUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekJoinUI"></a>
 - KygekRulesUI <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI"></a>
 - KygekEasyGamemode <a href="http://kygekdownloads.freecluster.eu/kygekeasygamemode"><img src="https://poggit.pmmp.io/shield.dl.total/KygekEasyGamemode"></a>
