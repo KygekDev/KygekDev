@@ -10,6 +10,8 @@ I'm Kygekraqmak (or KygekDev). Here are facts about me:
 - 🤔 I’m looking for help with anyone who wants to contribute
 - 📫 How to reach me: Discord (KygekDev#6415)
 
+Check out my YouTube videos <a href="https://www.youtube.com/channel/UCa2QXlKFxXZEo_ClFXZ69Ag">here</a>
+
 ## Plugins
 
 ### Visit my <a href="http://kygekdownloads.freecluster.eu">website</a> for a list of all of my plugins.
