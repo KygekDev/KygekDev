@@ -14,16 +14,16 @@ I can help you review your PocketMine-MP plugins to ensure they are ready to be 
 
 ## Links
 
-- <a href="http://kygekdownloads.freecluster.eu">Website</a> (Plugins Download Center)
+- <a href="https://kygekdownloads.freecluster.eu">Website</a> (Plugins Download Center)
 - <a href="https://www.youtube.com/channel/UCa2QXlKFxXZEo_ClFXZ69Ag">YouTube Channel</a>
-- <a href="http://kygekdownloads.freecluster.eu/realtime">Poggit Real Time Downloads</a>
+- <a href="https://kygekdownloads.freecluster.eu/realtime">Poggit Real Time Downloads</a>
 
 ## Plugins
 
 ### Official Plugins by Kygekraqmak and aminozomty:
 - KygekJoinUI <a href="https://poggit.pmmp.io/p/KygekJoinUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekJoinUI"></a>
 - KygekRulesUI <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI"></a>
-- KygekEasyGamemode <a href="http://kygekdownloads.freecluster.eu/kygekeasygamemode"><img src="https://poggit.pmmp.io/shield.dl.total/KygekEasyGamemode"></a>
+- KygekEasyGamemode <a href="https://kygekdownloads.freecluster.eu/kygekeasygamemode"><img src="https://poggit.pmmp.io/shield.dl.total/KygekEasyGamemode"></a>
 - KygekPingTPS <a href="https://poggit.pmmp.io/p/KygekPingTPS"><img src="https://poggit.pmmp.io/shield.dl.total/KygekPingTPS"></a>
 - KygekRanksUI <a href="https://poggit.pmmp.io/p/KygekRanksUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRanksUI"></a>
 - PerWorldPlayersList <a href="https://poggit.pmmp.io/p/PerWorldPlayersList"><img src="https://poggit.pmmp.io/shield.dl.total/PerWorldPlayersList"></a>
