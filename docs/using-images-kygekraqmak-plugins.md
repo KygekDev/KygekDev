@@ -4,7 +4,7 @@ This is a documentation made by Kygekraqmak for guides on using an image beside 
 
 ## Modes
 
-There are buttons image modes available: **Link** or **Texture Pack**.
+There are buttons image modes available: [**Link**](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/using-images-kygekraqmak-plugins.md#images-from-links) or [**Texture Pack**](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/using-images-kygekraqmak-plugins.md#images-from-texture-packs).
 
 ## Images from Links
 
