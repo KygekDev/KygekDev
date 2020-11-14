@@ -11,7 +11,6 @@ There are buttons image modes available: [**Link**](https://github.com/Kygekraqm
 If you want to add images from link, you should follow some rules as seen below so the images could load:
 
 - Images **should use** the .png format (for compatibility reasons).
-- Images **should be** at least 160 x 160 px in size.
 - Images **should be displayed** as raw (no HTML/CSS/JavaScript included or injected).
 - Links **should include** "http://" or "https://".
 
