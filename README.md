@@ -32,4 +32,4 @@ KygekWhitelistKick | <a href="https://poggit.pmmp.io/p/KygekWhitelistKick"><img 
 KygekEasyGamemode | <a href="https://kygekdownloads.freecluster.eu/kygekeasygamemode">Click here</a>
 PerWorldPlayersList | <a href="https://poggit.pmmp.io/p/PerWorldPlayersList"><img src="https://poggit.pmmp.io/shield.dl.total/PerWorldPlayersList"></a>
 
-**WARNING!** Unofficial PocketMine-MP plugins with the names above could occasionally be found. We will not provide any support for unofficial versions of plugins above. Our plugins may work on unofficial versions of PocketMine-MP, but we will never provide a support for them.
+**WARNING!** Unofficial PocketMine-MP plugins with the names above could occasionally be found. We will not provide any support for unofficial versions of plugins above. Our plugins may work on unofficial versions of PocketMine-MP, but we will never provide any support for them.
