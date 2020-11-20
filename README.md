@@ -4,8 +4,8 @@
 
 I'm Kygekraqmak (or KygekDev). Here are facts about me:
 
-- 🔭 I’m currently working on PocketMine-MP plugins
-- 🌱 I’m currently learning more about PHP and PocketMine-MP API
+- 🔭 I’m currently working on PocketMine-MP plugins and other projects
+- 🌱 I’m currently learning more about PHP, PocketMine-MP API, and much more
 - 👯 I’m looking to collaborate with anyone who knows the PHP language
 - 🤔 I’m looking for help with anyone who wants to contribute
 - 📫 How to reach me: Discord (KygekDev#6415)
@@ -22,7 +22,7 @@ I can help you review your PocketMine-MP plugins to ensure they are ready to be 
 
 ### Official Plugins by Kygekraqmak and aminozomty:
 
-Name | Download
+Plugin | Download
 --- | ---
 KygekJoinUI | <a href="https://poggit.pmmp.io/p/KygekJoinUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekJoinUI"></a>
 KygekRulesUI | <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI"></a> + 957
