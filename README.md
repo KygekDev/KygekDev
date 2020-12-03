@@ -24,8 +24,8 @@ I can help you review your PocketMine-MP plugins to ensure they are ready to be 
 
 Plugin | Download
 --- | ---
-KygekJoinUI | <a href="https://poggit.pmmp.io/p/KygekJoinUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekJoinUI"></a>
 KygekRanksUI | <a href="https://poggit.pmmp.io/p/KygekRanksUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRanksUI"></a>
+KygekJoinUI | <a href="https://poggit.pmmp.io/p/KygekJoinUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekJoinUI"></a>
 KygekRulesUI | <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI"></a> + 957
 PerWorldPlayersList | <a href="https://poggit.pmmp.io/p/PerWorldPlayersList"><img src="https://poggit.pmmp.io/shield.dl.total/PerWorldPlayersList"></a>
 KygekPingTPS | <a href="https://poggit.pmmp.io/p/KygekPingTPS"><img src="https://poggit.pmmp.io/shield.dl.total/KygekPingTPS"></a>
