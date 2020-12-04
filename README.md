@@ -5,7 +5,7 @@
 I'm Kygekraqmak (or KygekDev). Here are facts about me:
 
 - 🔭 I’m currently working on PocketMine-MP plugins and other projects
-- 🌱 I’m currently learning more about PHP, PocketMine-MP API, and much more
+- 🌱 I’m currently learning Java and much more
 - 👯 I’m looking to collaborate with anyone who knows the PHP language
 - 🤔 I’m looking for help with anyone who wants to contribute
 - 📫 How to reach me: Discord (KygekDev#6415)
