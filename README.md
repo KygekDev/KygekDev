@@ -10,13 +10,17 @@ I'm Kygekraqmak (or KygekDev). Here are facts about me:
 - 🤔 I’m looking for help with anyone who wants to contribute
 - 📫 How to reach me: Discord (KygekDev#6415)
 
-I can help you review your PocketMine-MP plugins to ensure they are ready to be released in Poggit.  
-
 ## Links
 
 - <a href="https://kygekdownloads.freecluster.eu">Website</a> (Plugins Download Center)
 - <a href="https://www.youtube.com/channel/UCa2QXlKFxXZEo_ClFXZ69Ag">YouTube Channel</a>
 - <a href="https://kygekdownloads.freecluster.eu/realtime">Poggit Real Time Downloads</a>
+
+## Helped Plugins
+
+- [NichiJoinLocation](https://poggit.pmmp.io/p/NichiJoinLocation)
+
+I can help you review your PocketMine-MP plugins to ensure they are ready to be released in Poggit.
 
 ## Plugins
 
