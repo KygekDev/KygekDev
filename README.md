@@ -12,9 +12,9 @@ I'm Kygekraqmak (or KygekDev). Here are facts about me:
 
 ## Links
 
-- <a href="https://kygekdownloads.freecluster.eu">Website</a> (Plugins Download Center)
+- <a href="https://kygekteam.org">Website</a> (Plugins Download Center)
 - <a href="https://www.youtube.com/channel/UCa2QXlKFxXZEo_ClFXZ69Ag">YouTube Channel</a>
-- <a href="https://kygekdownloads.freecluster.eu/realtime">Poggit Real Time Downloads</a>
+- <a href="https://kkygekteam.org/realtime">Poggit Real Time Downloads</a>
 
 ## Helped Plugins
 
