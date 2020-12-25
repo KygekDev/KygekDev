@@ -26,7 +26,7 @@ I can help you review your PocketMine-MP plugins to ensure they are ready to be 
 
 ### Real Time Plugins Download Count:
 
-![Real time is down?](http://api.overplaymc.net/kygek-downloads.php?)
+[![Real time is down?](http://api.overplaymc.net/kygek-downloads.php?)](https://kygekteam.org/images/kygek-downloads)
 
 ### Official Plugins by Me:
 
