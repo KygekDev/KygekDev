@@ -34,10 +34,11 @@ I can help you review your PocketMine-MP plugins to ensure they are ready to be 
 --- | --- | ---
 KygekRanksUI | <a href="https://poggit.pmmp.io/p/KygekRanksUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRanksUI"></a> | **COMING SOON**
 KygekJoinUI | <a href="https://poggit.pmmp.io/p/KygekJoinUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekJoinUI"></a> | **COMING SOON**
-KygekRulesUI | <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI"></a> + 957 | [Click here](https://cloudburstmc.org/resources/kygekeatheal.614/)
+KygekRulesUI | <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI"></a> + 957 | [Click here](https://cloudburstmc.org/resources/kygekrulesui.600/)
 KygekPingTPS | <a href="https://poggit.pmmp.io/p/KygekPingTPS"><img src="https://poggit.pmmp.io/shield.dl.total/KygekPingTPS"></a> | **COMING SOON**
 KygekWhitelistKick | <a href="https://poggit.pmmp.io/p/KygekWhitelistKick"><img src="https://poggit.pmmp.io/shield.dl.total/KygekWhitelistKick"></a> | **COMING SOON**
 KygekTagsShop | <a href="https://poggit.pmmp.io/p/KygekTagsShop"><img src="https://poggit.pmmp.io/shield.dl.total/KygekTagsShop"></a> | **COMING SOON**
-KygekEasyGamemode | <a href="https://kygekteam.org/kygekeasygamemode">Click here</a> | **COMING SOON**
+KygekEatHeal | <a href="https://poggit.pmmp.io/p/KygekEatHeal"><img src="https://poggit.pmmp.io/shield.dl.total/KygekEatHeal"></a> | [Click here](https://cloudburstmc.org/resources/kygekeatheal.614/)
+KygekEasyGamemode | <a href="https://kygekteam.org/kygekeasygamemode">Click here</a> | [Click here](https://cloudburstmc.org/resources/kygekeasygamemode.615/)
 
 **WARNING!** Unofficial PocketMine-MP plugins with the names above could occasionally be found. I will not provide any support for unofficial versions of plugins above. My plugins may work on unofficial versions of PocketMine-MP, but I will never provide any support for them.
