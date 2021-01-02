@@ -1,12 +1,26 @@
-**Note: This page is under construction. Please check back later.**
+# Updating `mcpe-protocol` in PMMP Plugin
 
-# Updating `mcpe-protocol` in PocketMine-MP Plugin Manually
+## Introduction
 
-Minecraft: Bedrock Edition (the Game) is constantly getting updates. However, some updates includes protocol changes. Therefore, PocketMine-MP constantly pushes updates to support latest version of the Game. To maintain plugin compatibility, PocketMine-MP uses the Game's protocol version as a standard for plugins declaring `mcpe-protocol` in `plugin.yml` to load properly. Plugins that does not match the current protocol version of the Game would show `Incompatible network protocol version` error in console and automatically disabled. PocketMine-MP updates which includes protocol changes usually bumped the minor version (`major.minor.patch`). However, not every updates of the Game break all plugins. Therefore, sometimes updating `mcpe-protocol` to match the current protocol version of the Game will work.
+Minecraft: Bedrock Edition (the Game) is constantly getting updates. However, some updates includes protocol changes, which may break some components inside PocketMine-MP. Therefore, PocketMine-MP constantly pushes updates to support latest version of the Game. To maintain plugin compatibility, PocketMine-MP uses the Game's protocol version as a standard for plugins declaring `mcpe-protocol` in `plugin.yml` to load properly. Plugins that does not match the current protocol version of the Game would show `Incompatible network protocol version` error in console and automatically disabled. PocketMine-MP updates which includes protocol changes usually bumped the minor version (`major.minor.patch`). However, not every updates of the Game break all plugins. Therefore, sometimes updating `mcpe-protocol` to match the current protocol version of the Game will work.
 
-Knowing how to update `mcpe-protocol` in plugins is very important, because not all plugins are updated constantly to support latest PocketMine-MP version. Therefore, I made this documentation/tutorial for beginners. **If you need more information, refer to the [FAQs](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol-manually.md#faqs) section.**
+Knowing how to update `mcpe-protocol` in plugins is very important, because not all plugins are updated constantly to support latest PocketMine-MP version. Therefore, I made this documentation/tutorial for beginners. In this tutorial you'll be going to convert PHAR plugin to directory, modify `plugin.yml` inside the plugin and converting it back to PHAR. **If you have any questions, refer to the [FAQs](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol-manually.md#faqs) section before proceeding to our [Discord server](https://discord.gg/CXtqUZv).**
 
 ## Table of Contents
+
+- [Introduction](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol.md#introduction)
+- [Table of Contents](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol.md#table-of-contents)
+- [Prerequisites](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol.md#prerequisites)
+- [Converting PHAR to Directory](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol.md#converting-phar-to-directory)
+    - [Converting using DevTools](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol.md#converting-using-devtools)
+    - [Converting using PHAR Converter](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol.md#converting-using-phar-converter)
+    - [Conveting using phar.scer.io](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol.md#conveting-using-pharscerio)
+- [Editing `plugin.yml`](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol.md#editing-pluginyml)
+- [Converting Directory Back to PHAR](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol.md#converting-directory-back-to-phar)
+    - [Converting using DevTools](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol.md#converting-using-devtools-1)
+    - [Converting using PHAR Converter](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol.md#converting-using-phar-converter-1)
+    - [Conveting using phar.scer.io](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol.md#conveting-using-pharscerio-1)
+- [FAQs](https://github.com/Kygekraqmak/Kygekraqmak/blob/master/docs/update-mcpe-protocol.md#faqs)
 
 ## Prerequisites
 
@@ -18,12 +32,13 @@ Knowing how to update `mcpe-protocol` in plugins is very important, because not 
 ## Converting PHAR to Directory
 
 Before editing `plugin.yml`, you need to convert PHAR to directory. You can either use [DevTools](https://poggit.pmmp.io/p/DevTools), 
-[PHAR Converter](https://github.com/KygekTeam/PHAR-Converter/releases) or [phar.scer.io](https://phar.scer.io).
+[PHAR Converter](https://github.com/KygekTeam/PHAR-Converter/releases) or [phar.scer.io](https://phar.scer.io). You can see the table below to determine the difficulty.
 
-#### Difficulty:
-Easy: phar.scer.io\
-Medium: DevTools (Preferred)\
-Hard: PHAR Converter (Support us by becoming our beta tester and report bugs!)
+| Difficulty | Software |
+| ---------- | -------- |
+| Easy | phar.scer.io |
+| Medium | DevTools (Preferred) |
+| Hard | PHAR Converter (Support us by becoming our beta tester and report bugs!) |
 
 ### Converting using DevTools
 
