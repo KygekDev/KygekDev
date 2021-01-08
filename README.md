@@ -37,7 +37,7 @@ KygekJoinUI | <a href="https://poggit.pmmp.io/p/KygekJoinUI"><img src="https://p
 KygekRulesUI | <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI"></a> + 957 | [Click here](https://cloudburstmc.org/resources/kygekrulesui.600/)
 KygekPingTPS | <a href="https://poggit.pmmp.io/p/KygekPingTPS"><img src="https://poggit.pmmp.io/shield.dl.total/KygekPingTPS"></a> | [Click here](https://cloudburstmc.org/resources/kygekpingtps.618/)
 KygekTagsShop | <a href="https://poggit.pmmp.io/p/KygekTagsShop"><img src="https://poggit.pmmp.io/shield.dl.total/KygekTagsShop"></a> | **COMING SOON**
-KygekWhitelistKick | <a href="https://poggit.pmmp.io/p/KygekWhitelistKick"><img src="https://poggit.pmmp.io/shield.dl.total/KygekWhitelistKick"></a> | **COMING SOON**
+KygekWhitelistKick | <a href="https://poggit.pmmp.io/p/KygekWhitelistKick"><img src="https://poggit.pmmp.io/shield.dl.total/KygekWhitelistKick"></a> | [Click here](https://cloudburstmc.org/resources/kygekwhitelistkick.619/)
 KygekEatHeal | <a href="https://poggit.pmmp.io/p/KygekEatHeal"><img src="https://poggit.pmmp.io/shield.dl.total/KygekEatHeal"></a> | [Click here](https://cloudburstmc.org/resources/kygekeatheal.614/)
 KygekEasyGamemode | <a href="https://kygekteam.org/kygekeasygamemode">Click here</a> | [Click here](https://cloudburstmc.org/resources/kygekeasygamemode.615/)
 
