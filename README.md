@@ -1,11 +1,17 @@
 <a href="https://discord.gg/CXtqUZv" target="_blank"><img src="https://kygekraqmak.github.io/kygekteam.png"></a>
 
+### Note
+
+If you were redirected from [Kygekraqmak's](https://github.com/Kygekraqmak) profile, match the string below as a proof:
+
+`DZZjWy0NmB5DBRyVJoQE`
+
 ## Hi there 👋
 
-I'm Kygekraqmak (or KygekDev). Here are facts about me:
+I'm KygekDev. Here are facts about me:
 
 - 🔭 I’m currently working on PocketMine-MP plugins and other projects
-- 🌱 I’m currently learning Java and much more
+- 🌱 I’m currently learning many things
 - 👯 I’m looking to collaborate with anyone who knows the PHP language
 - 🤔 I’m looking for help with anyone who wants to contribute
 - 📫 How to reach me: Discord (KygekDev#6415)
