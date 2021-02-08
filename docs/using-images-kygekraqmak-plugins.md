@@ -1,6 +1,6 @@
-# Using Images on Kygekraqmak's UI Plugins
+# Using Images on KygekDev's UI Plugins
 
-This is a documentation made by Kygekraqmak for guides on using an image beside buttons in some KygekTeam's plugins (e.g. KygekJoinUI).
+This is a documentation made by KygekDev for guides on using an image beside buttons in some KygekTeam's plugins (e.g. KygekJoinUI).
 
 ## Modes
 
@@ -18,7 +18,7 @@ Sometimes images don't load properly, if that's the case, you may have to open t
 
 ## Images from Texture Packs
 
-If you want to use image from texture pack, please visit https://github.com/Kygekraqmak/default-textures for more info.
+If you want to use image from texture pack, please visit https://github.com/KygekDev/default-textures for more info.
 
 ## Support
 
