@@ -28,13 +28,7 @@ Here are facts about me:
 
 I can help you review your PocketMine-MP plugins to ensure they are ready to be released in Poggit.
 
-## Plugins
-
-### Real Time Plugins Download Count:
-
-[![Real time is down?](http://api.kygekteam.org/kygek-downloads.php?)](https://kygekteam.org/images/kygek-downloads)
-
-### Official Plugins by Me:
+## Official Plugins by Me
 
 **Plugin** | **Download (PMMP)** | **Download (Nukkit)**
 --- | --- | ---
@@ -46,5 +40,6 @@ KygekTagsShop | <a href="https://poggit.pmmp.io/p/KygekTagsShop"><img src="https
 KygekWhitelistKick | <a href="https://poggit.pmmp.io/p/KygekWhitelistKick"><img src="https://poggit.pmmp.io/shield.dl.total/KygekWhitelistKick"></a> | [Click here](https://cloudburstmc.org/resources/kygekwhitelistkick.619/)
 KygekEatHeal | <a href="https://poggit.pmmp.io/p/KygekEatHeal"><img src="https://poggit.pmmp.io/shield.dl.total/KygekEatHeal"></a> | [Click here](https://cloudburstmc.org/resources/kygekeatheal.614/)
 KygekEasyGamemode | <a href="https://kygekteam.org/kygekeasygamemode">Click here</a> | [Click here](https://cloudburstmc.org/resources/kygekeasygamemode.615/)
+KygekPluginsUpdater | **COMING SOON** | **COMING SOON**
 
 **WARNING!** Unofficial PocketMine-MP plugins with the names above could occasionally be found. I will not provide any support for unofficial versions of plugins above. My plugins may work on unofficial versions of PocketMine-MP, but I will never provide any support for them.
