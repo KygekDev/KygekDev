@@ -22,13 +22,7 @@ Here are facts about me:
 - <a href="https://www.youtube.com/channel/UCa2QXlKFxXZEo_ClFXZ69Ag">YouTube Channel</a>
 - <a href="https://kygekteam.org/realtime">Poggit Real Time Downloads</a>
 
-## Helped Plugins
-
-- [NichiJoinLocation](https://poggit.pmmp.io/p/NichiJoinLocation)
-
-I can help you review your PocketMine-MP plugins to ensure they are ready to be released in Poggit.
-
-## Official Plugins by Me
+## Official Plugins by KygekTeam
 
 **Plugin** | **Download (PMMP)** | **Download (Nukkit)**
 --- | --- | ---
@@ -43,3 +37,13 @@ KygekEasyGamemode | <a href="https://kygekteam.org/kygekeasygamemode">Click here
 KygekPluginsUpdater | **COMING SOON** | **COMING SOON**
 
 **WARNING!** Unofficial PocketMine-MP plugins with the names above could occasionally be found. I will not provide any support for unofficial versions of plugins above. My plugins may work on unofficial versions of PocketMine-MP, but I will never provide any support for them.
+
+## Contributed Plugins
+
+- [PerWorldPlayersList](https://poggit.pmmp.io/p/PerWorldPlayersList) by [@aminozomty](https://github.com/aminozomty)
+- [NichiJoinLocation](https://poggit.pmmp.io/p/NichiJoinLocation) by [@MadeAja](https://github.com/MadeAja)
+- [Worlds](https://poggit.pmmp.io/p/Worlds) by [@survanetwork](https://github.com/survanetwork)
+- [BadWordBlocker](https://poggit.pmmp.io/p/BadWordBlocker) by [@survanetwork](https://github.com/survanetwork)
+- [FlyPE](https://poggit.pmmp.io/p/FlyPE) by [@AGTHARN](https://github.com/AGTHARN)
+
+I can help you review your PocketMine-MP plugins to ensure they are ready to be released in Poggit. Just contact me via [KygekTeam Discord server](https://discord.gg/CXtqUZv).
