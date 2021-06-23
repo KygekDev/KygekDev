@@ -12,6 +12,8 @@ Unfortunately, we do not offer private support for PocketMine-MP plugins help, e
 - More likely to get answers from questions, as there are many experienced users.
 - Support from other KygekTeam staffs, in case of questions about plugins by KygekTeam.
 
+If you keep trying to ask for private support, we will send you a link to the KygekTeam Discord server and ignore future messages which related to PocketMine-MP plugin help.
+
 An exception is made for commissions and other important circumstances which requires private support for PocketMine-MP plugins. If you have one, kindly send a friend request to KygekDev, wait KygekDev to accept or call KygekDev in a mutual server (please follow the server rules), and explain that you need private support because of an important circumstance.
 
 ---
