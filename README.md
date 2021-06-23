@@ -1,4 +1,4 @@
-<a href="https://discord.gg/CXtqUZv" target="_blank"><img src="https://kygekdev.github.io/kygekteam-new.png"></a>
+<a href="https://discord.gg/CXtqUZv" target="_blank"><img src="https://kygekdev.github.io/images/KygekTeam.png"></a>
 
 ### Note:
 
