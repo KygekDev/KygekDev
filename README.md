@@ -39,8 +39,9 @@ KygekWhitelistKick | <a href="https://poggit.pmmp.io/p/KygekWhitelistKick"><img 
 KygekTagsShop | <a href="https://poggit.pmmp.io/p/KygekTagsShop"><img src="https://poggit.pmmp.io/shield.dl.total/KygekTagsShop"></a> | **COMING SOON**
 KygekPingTPS | <a href="https://poggit.pmmp.io/p/KygekPingTPS"><img src="https://poggit.pmmp.io/shield.dl.total/KygekPingTPS"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekpingtps.618/)
 KygekEatHeal | <a href="https://poggit.pmmp.io/p/KygekEatHeal"><img src="https://poggit.pmmp.io/shield.dl.total/KygekEatHeal"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeatheal.614/)
+KygekFarmlandDecay | <a href="https://poggit.pmmp.io/p/KygekFarmlandDecay"><img src="https://poggit.pmmp.io/shield.dl.total/KygekFarmlandDecay"></a> | **COMING SOON**
 KygekEasyGamemode | [kygekteam.org](https://kygekteam.org/kygekeasygamemode) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeasygamemode.615/)
-KygekFarmlandDecay | **COMING SOON** | **COMING SOON**
+KygekReachCustomizer | **COMING SOON** | **COMING SOON**
 KygekPluginsUpdater | **COMING SOON** | **COMING SOON**
 
 ### Visit the [@KygekTeam](https://github.com/KygekTeam) GitHub page to find out more projects from KygekTeam!
