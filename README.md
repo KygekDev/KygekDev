@@ -16,13 +16,14 @@ If you were redirected from [Kygekraqmak's](https://github.com/Kygekraqmak) prof
 - 🌱 | Currently learning many things
 - 👯 | Looking to collaborate with anyone who knows the PHP language and PocketMine-MP
 - 🤔 | Looking for help from anyone who wants to contribute
-- 📫 | Reach or contact me in the KygekTeam [Discord server](https://discord.gg/CXtqUZv)!
+- 📫 | Reach or contact me in the [KygekDev Community Discord server](https://discord.gg/TstDS9jZf7) or [KygekTeam Discord server](https://discord.gg/CXtqUZv)!
 
 ---
 
 ## Links Worth Visiting
 
-- <a href="https://kygekteam.org">Website</a> (Plugins Download Center)
+- <a href="https://kygekteam.org">KygekTeam Website</a>
+- <a href="https://kygekdev.github.io">KygekDev Website</a>
 - <a href="https://www.youtube.com/channel/UCa2QXlKFxXZEo_ClFXZ69Ag">YouTube Channel</a>
 - <a href="https://kygekteam.org/realtime">Poggit Real Time Downloads</a>
 
@@ -32,16 +33,16 @@ If you were redirected from [Kygekraqmak's](https://github.com/Kygekraqmak) prof
 
 **Plugin** | **Download (PMMP)** | **Download (Nukkit)**
 --- | --- | ---
-KygekRanksUI | <a href="https://poggit.pmmp.io/p/KygekRanksUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRanksUI"></a> | **COMING SOON**
-KygekJoinUI | <a href="https://poggit.pmmp.io/p/KygekJoinUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekJoinUI"></a> | **COMING SOON**
-KygekRulesUI | <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI"></a> (+ 957) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekrulesui.600/)
-KygekWhitelistKick | <a href="https://poggit.pmmp.io/p/KygekWhitelistKick"><img src="https://poggit.pmmp.io/shield.dl.total/KygekWhitelistKick"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekwhitelistkick.619/)
-KygekTagsShop | <a href="https://poggit.pmmp.io/p/KygekTagsShop"><img src="https://poggit.pmmp.io/shield.dl.total/KygekTagsShop"></a> | **COMING SOON**
-KygekPingTPS | <a href="https://poggit.pmmp.io/p/KygekPingTPS"><img src="https://poggit.pmmp.io/shield.dl.total/KygekPingTPS"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekpingtps.618/)
-KygekEatHeal | <a href="https://poggit.pmmp.io/p/KygekEatHeal"><img src="https://poggit.pmmp.io/shield.dl.total/KygekEatHeal"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeatheal.614/)
-KygekFarmlandDecay | <a href="https://poggit.pmmp.io/p/KygekFarmlandDecay"><img src="https://poggit.pmmp.io/shield.dl.total/KygekFarmlandDecay"></a> | **COMING SOON**
-KygekEasyGamemode | [kygekteam.org](https://kygekteam.org/kygekeasygamemode) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeasygamemode.615/)
-KygekReachCustomizer | **COMING SOON** | **COMING SOON**
+[KygekRanksUI](https://github.com/KygekTeam/KygekRanksUI) | <a href="https://poggit.pmmp.io/p/KygekRanksUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRanksUI"></a> | **COMING SOON**
+[KygekJoinUI](https://github.com/KygekTeam/KygekJoinUI) | <a href="https://poggit.pmmp.io/p/KygekJoinUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekJoinUI"></a> | **COMING SOON**
+[KygekRulesUI](https://github.com/KygekTeam/KygekRulesUI) | <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI"></a> (+ 957) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekrulesui.600/)
+[KygekWhitelistKick](https://github.com/KygekTeam/KygekWhitelistKick) | <a href="https://poggit.pmmp.io/p/KygekWhitelistKick"><img src="https://poggit.pmmp.io/shield.dl.total/KygekWhitelistKick"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekwhitelistkick.619/)
+[KygekTagsShop](https://github.com/KygekTeam/KygekTagsShop) | <a href="https://poggit.pmmp.io/p/KygekTagsShop"><img src="https://poggit.pmmp.io/shield.dl.total/KygekTagsShop"></a> | **COMING SOON**
+[KygekPingTPS](https://github.com/KygekTeam/KygekPingTPS) | <a href="https://poggit.pmmp.io/p/KygekPingTPS"><img src="https://poggit.pmmp.io/shield.dl.total/KygekPingTPS"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekpingtps.618/)
+[KygekEatHeal](https://github.com/KygekTeam/KygekEatHeal) | <a href="https://poggit.pmmp.io/p/KygekEatHeal"><img src="https://poggit.pmmp.io/shield.dl.total/KygekEatHeal"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeatheal.614/)
+[KygekFarmlandDecay](https://github.com/KygekTeam/KygekFarmlandDecay) | <a href="https://poggit.pmmp.io/p/KygekFarmlandDecay"><img src="https://poggit.pmmp.io/shield.dl.total/KygekFarmlandDecay"></a> | **COMING SOON**
+[KygekEasyGamemode](https://github.com/KygekTeam/KygekEasyGamemode) | [kygekteam.org](https://kygekteam.org/kygekeasygamemode) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeasygamemode.615/)
+[KygekReachCustomizer](https://github.com/KygekTeam/KygekReachCustomizer) | **COMING SOON** | **COMING SOON**
 KygekPluginsUpdater | **COMING SOON** | **COMING SOON**
 
 ### Visit the [@KygekTeam](https://github.com/KygekTeam) GitHub page to find out more projects from KygekTeam!
