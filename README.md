@@ -1,12 +1,6 @@
 
 <a href="https://discord.gg/CXtqUZv" target="_blank"><img src="https://kygekdev.github.io/images/KygekTeam.png"></a>
 
-### Note:
-
-If you were redirected from [Kygekraqmak's](https://github.com/Kygekraqmak) profile, match the string below as a proof:
-
-`DZZjWy0NmB5DBRyVJoQE`
-
 ---
 
 # Hello, I'm KygekDev 👋
