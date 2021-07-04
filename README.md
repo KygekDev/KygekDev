@@ -44,7 +44,6 @@ If you were redirected from [Kygekraqmak's](https://github.com/Kygekraqmak) prof
 [KygekFarmlandDecay](https://github.com/KygekTeam/KygekFarmlandDecay) | <a href="https://poggit.pmmp.io/p/KygekFarmlandDecay"><img src="https://poggit.pmmp.io/shield.dl.total/KygekFarmlandDecay"></a> | **COMING SOON** | **COMING SOON**
 [KygekEasyGamemode](https://github.com/KygekTeam/KygekEasyGamemode) | [kygekteam.org](https://kygekteam.org/kygekeasygamemode) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeasygamemode.615/) | **COMING SOON**
 [KygekReachCustomizer](https://github.com/KygekTeam/KygekReachCustomizer) | **COMING SOON** | **COMING SOON** | **COMING SOON**
-KygekPluginsUpdater | **COMING SOON** | **COMING SOON** | **COMING SOON**
 
 ### Visit the [@KygekTeam](https://github.com/KygekTeam) GitHub page to find out more projects from KygekTeam!
 
