@@ -61,5 +61,6 @@
 - [Worlds](https://poggit.pmmp.io/p/Worlds) by [@survanetwork](https://github.com/survanetwork)
 - [BadWordBlocker](https://poggit.pmmp.io/p/BadWordBlocker) by [@survanetwork](https://github.com/survanetwork)
 - [FlyPE](https://poggit.pmmp.io/p/FlyPE) by [@AGTHARN](https://github.com/AGTHARN)
+- [HideCommands](https://poggit.pmmp.io/p/HideCommands) by [@HimbeersaftLP](https://github.com/HimbeersaftLP)
 
 I can help you review your PocketMine-MP plugins to ensure they are ready to be released in Poggit. Just contact me via [KygekTeam Discord server](https://discord.gg/CXtqUZv).
