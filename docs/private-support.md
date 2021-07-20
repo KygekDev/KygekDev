@@ -20,7 +20,7 @@ An exception is made for commissions and other important circumstances which req
 
 ## Private Support for Other Things
 
-If it's about programming or coding, we strongly suggest you to join the [KygekTeam Discord server](https://discord.gg/CXtqUZv). However, private support may be offered if you really need help, asking for commissions or any other important circumstances.
+If it's about programming or coding, we strongly suggest you to join the [KygekDev community Discord server](https://discord.gg/TstDS9jZf7). However, private support may be offered if you really need help, asking for commissions or any other important circumstances.
 
 ---
 
