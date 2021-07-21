@@ -5,7 +5,7 @@
 
 # Hello, I'm KygekDev 👋
 
-## Founder & Leader of [@KygekTeam](https://github.com/KygekTeam)
+## 👑 Founder & Leader of [@KygekTeam](https://github.com/KygekTeam)
 
 - 🔭 | Currently working on [@KygekTeam](https://github.com/KygekTeam), PocketMine-MP plugins and other projects
 - 🌱 | Currently learning many things
@@ -15,7 +15,7 @@
 
 ---
 
-## Links Worth Visiting
+## 🔗 Links Worth Visiting
 
 - <a href="https://kygekteam.org">KygekTeam Website</a>
 - <a href="https://kygekdev.github.io">KygekDev Website</a>
@@ -24,7 +24,7 @@
 
 ---
 
-## Plugins (PocketMine-MP)
+## 🔌 Plugins (PocketMine-MP)
 
 - [AntiBedrock](https://github.com/KygekDev/AntiBedrock) - Prevent players from breaking bedrock on Creative mode
 - [IsOP](https://github.com/KygekDev/IsOP) - Get player height location relative to sea level
@@ -33,7 +33,7 @@
 
 ---
 
-## Official Plugins by [@KygekTeam](https://github.com/KygekTeam)
+## 🧩 Official Plugins by [@KygekTeam](https://github.com/KygekTeam)
 
 **Plugin** | **Download (PMMP)** | **Download (Nukkit)** | **Download (Spigot/Paper)**
 --- | --- | --- | ---
@@ -50,11 +50,11 @@
 
 ### Visit the [@KygekTeam](https://github.com/KygekTeam) GitHub page to find out more projects from KygekTeam!
 
-**WARNING:** Unofficial PocketMine-MP plugins with the names above could occasionally be found. I will not provide any support for unofficial versions of plugins above. My plugins may work on unofficial versions of PocketMine-MP, but I will never provide any support for them.
+**⚠️ WARNING:** Unofficial PocketMine-MP plugins with the names above could occasionally be found. I will not provide any support for unofficial versions of plugins above. My plugins may work on unofficial versions of PocketMine-MP, but I will never provide any support for them.
 
 ---
 
-## Contributed Plugins
+## 📝 Contributed Plugins
 
 - [PerWorldPlayersList](https://poggit.pmmp.io/p/PerWorldPlayersList) by [@aminozomty](https://github.com/aminozomty)
 - [NichiJoinLocation](https://poggit.pmmp.io/p/NichiJoinLocation) by [@MadeAja](https://github.com/MadeAja)
