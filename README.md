@@ -19,6 +19,7 @@
 
 - <a href="https://kygekteam.org">KygekTeam Website</a>
 - <a href="https://kygekdev.github.io">KygekDev Website</a>
+- <a href="https://kygekdev.github.io/posts/">Posts by KygekDev</a>
 - <a href="https://www.youtube.com/channel/UCa2QXlKFxXZEo_ClFXZ69Ag">YouTube Channel</a>
 - <a href="https://kygekteam.org/realtime">Poggit Real Time Downloads</a>
 
