@@ -47,6 +47,7 @@
 [KygekPingTPS](https://github.com/KygekTeam/KygekPingTPS) | <a href="https://poggit.pmmp.io/p/KygekPingTPS"><img src="https://poggit.pmmp.io/shield.dl.total/KygekPingTPS"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekpingtps.618/) | [spigotmc.org](https://www.spigotmc.org/resources/kygekpingtps.93808/)
 [KygekEatHeal](https://github.com/KygekTeam/KygekEatHeal) | <a href="https://poggit.pmmp.io/p/KygekEatHeal"><img src="https://poggit.pmmp.io/shield.dl.total/KygekEatHeal"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeatheal.614/) | **COMING SOON**
 [KygekFarmlandDecay](https://github.com/KygekTeam/KygekFarmlandDecay) | <a href="https://poggit.pmmp.io/p/KygekFarmlandDecay"><img src="https://poggit.pmmp.io/shield.dl.total/KygekFarmlandDecay"></a> | **COMING SOON** | **COMING SOON**
+[KygekLastPosition](https://github.com/KygekTeam/KygekLastPosition) | <a href="https://poggit.pmmp.io/p/KygekLastPosition"><img src="https://poggit.pmmp.io/shield.dl.total/KygekLastPosition"></a> | **COMING SOON** | **COMING SOON**
 [KygekEasyGamemode](https://github.com/KygekTeam/KygekEasyGamemode) | [kygekteam.org](https://kygekteam.org/kygekeasygamemode) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeasygamemode.615/) | **COMING SOON**
 [KygekReachCustomizer](https://github.com/KygekTeam/KygekReachCustomizer) | **COMING SOON** | **COMING SOON** | **COMING SOON**
 
