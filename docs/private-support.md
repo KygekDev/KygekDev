@@ -2,6 +2,10 @@
 
 If you get to this page, chances are you were redirected from https://kygekdev.github.io/private-support. This page will explain about private support from KygekDev, both for PocketMine-MP plugins and other things.
 
+### WARNING
+
+Only send friend requests to KygekDev if you have a strong reason to do so (such as reporting vulnerabilities, staff DM-ing, commission, etc). When KygekDev accepts your friend request, he will ask you for a strong reason to why you sent a friend request to him. Failing to give a strong reason will result in a **friend removal**. Friend requests may be closed **permanently** if users keep abusing the friend requests feature without any strong reasons. If that happens, every user **must** notify KygekDev in a public Discord server by mentioning and providing a strong reason to why the user wants to send him a friend request, otherwise all unknown friend requests will be **ignored**.
+
 ---
 
 ## Private Support for PocketMine-MP Plugins
