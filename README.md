@@ -1,7 +1,7 @@
 
 <a href="https://discord.gg/CXtqUZv" target="_blank"><img src="https://kygekdev.github.io/images/KygekTeam.png"></a>
 
-### NEW: Download prebuilt PocketMine-MP 4 PHAR and PHP binary without building yourself [HERE](https://jenkins.kygekteam.org/view/PocketMine-MP%204/)!
+### NEW: Download prebuilt PocketMine-MP 4 PHAR and PHP binary without building yourself [HERE](https://r.kygekteam.org/pm4)!
 
 ---
 
@@ -25,7 +25,7 @@
 - <a href="https://www.youtube.com/channel/UCa2QXlKFxXZEo_ClFXZ69Ag">YouTube Channel</a>
 - <a href="https://r.kygekteam.org/pmschool">PocketMine School</a>
 - <a href="https://r.kygekteam.org/pm4docker">PocketMine-MP 4 Docker Image</a>
-- <a href="https://r.kygekteam.org/jenkins">KygekTeam Jenkins (PocketMine-MP 4)</a>
+- <a href="https://r.kygekteam.org/jenkins">KygekTeam Jenkins</a> <a href="https://r.kygekteam.org/pm4">(PocketMine-MP 4)</a>
 - <a href="https://kygekteam.org/realtime">Poggit Real Time Downloads</a>
 
 ---
