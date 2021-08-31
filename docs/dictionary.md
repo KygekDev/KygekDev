@@ -7,4 +7,4 @@ KygekDev sometimes uses special words which does not exists in Formal English no
 > **NOTE:** Abbreviations may be used in UPPERCASE, lowercase, or Both.
 
 **WDYM**: What do you mean\
-**UTCTS**: Unable to connect to server (Minecraft Bedrock)
+**UTCTS or UTC**: Unable to connect to server (Minecraft Bedrock)
