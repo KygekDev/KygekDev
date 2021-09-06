@@ -1,5 +1,5 @@
 
-<a href="https://discord.gg/CXtqUZv" target="_blank"><img src="https://kygekdev.github.io/images/KygekTeam.png"></a>
+<a href="https://discord.gg/CXtqUZv" target="_blank"><img src="https://kygekdev.github.io/images/KygekTeam.png?"></a>
 
 ### NEW: Download prebuilt PocketMine-MP 4 PHAR and PHP binary without building yourself [HERE](https://r.kygekteam.org/pm4)!
 
