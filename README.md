@@ -30,22 +30,22 @@
 
 ---
 
-## 🔌 Plugins (PocketMine-MP)
+## 🔌 Plugins
+
+#### KygekDev (PocketMine-MP)
 
 - [AntiBedrock](https://github.com/KygekDev/AntiBedrock) - Prevent players from breaking bedrock on Creative mode
 - [IsOP](https://github.com/KygekDev/IsOP) - Get player height location relative to sea level
 - [Height](https://github.com/KygekDev/Height) - List OP players and check if player is OP using command
 - [BankUI](https://github.com/KygekDev/BankUI) - [FORKED] A BankUI Plugin For PocketMine-MP
 
----
+#### KygekTeam (Visit the [@KygekTeam](https://github.com/KygekTeam) GitHub page to find out more projects from KygekTeam)
 
-## 🧩 Official Plugins by [@KygekTeam](https://github.com/KygekTeam)
-
-**Plugin** | **Download (PMMP)** | **Download (Nukkit)** | **Download (Spigot/Paper)**
---- | --- | --- | ---
+**Plugin** | **PMMP Download** | **NukkitX Download** | **Spigot/Paper Download**
+--- | :---: | :---: | :---:
 [KygekRanksUI](https://github.com/KygekTeam/KygekRanksUI) | <a href="https://poggit.pmmp.io/p/KygekRanksUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRanksUI"></a> | **COMING SOON** | **COMING SOON**
 [KygekJoinUI](https://github.com/KygekTeam/KygekJoinUI) | <a href="https://poggit.pmmp.io/p/KygekJoinUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekJoinUI"></a> | **COMING SOON** | **COMING SOON**
-[KygekRulesUI](https://github.com/KygekTeam/KygekRulesUI) | <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI"></a> (+ 957) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekrulesui.600/) | **COMING SOON**
+[KygekRulesUI](https://github.com/KygekTeam/KygekRulesUI) | <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI"></a><br>(+ 957) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekrulesui.600/) | **COMING SOON**
 [KygekWhitelistKick](https://github.com/KygekTeam/KygekWhitelistKick) | <a href="https://poggit.pmmp.io/p/KygekWhitelistKick"><img src="https://poggit.pmmp.io/shield.dl.total/KygekWhitelistKick"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekwhitelistkick.619/) | **COMING SOON**
 [KygekTagsShop](https://github.com/KygekTeam/KygekTagsShop) | <a href="https://poggit.pmmp.io/p/KygekTagsShop"><img src="https://poggit.pmmp.io/shield.dl.total/KygekTagsShop"></a> | **COMING SOON** | **COMING SOON**
 [KygekPingTPS](https://github.com/KygekTeam/KygekPingTPS) | <a href="https://poggit.pmmp.io/p/KygekPingTPS"><img src="https://poggit.pmmp.io/shield.dl.total/KygekPingTPS"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekpingtps.618/) | [spigotmc.org](https://www.spigotmc.org/resources/kygekpingtps.93808/)
@@ -53,9 +53,6 @@
 [KygekFarmlandDecay](https://github.com/KygekTeam/KygekFarmlandDecay) | <a href="https://poggit.pmmp.io/p/KygekFarmlandDecay"><img src="https://poggit.pmmp.io/shield.dl.total/KygekFarmlandDecay"></a> | **COMING SOON** | **COMING SOON**
 [KygekLastPosition](https://github.com/KygekTeam/KygekLastPosition) | <a href="https://poggit.pmmp.io/p/KygekLastPosition"><img src="https://poggit.pmmp.io/shield.dl.total/KygekLastPosition"></a> | **COMING SOON** | **COMING SOON**
 [KygekEasyGamemode](https://github.com/KygekTeam/KygekEasyGamemode) | [kygekteam.org](https://kygekteam.org/kygekeasygamemode) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeasygamemode.615/) | **COMING SOON**
-[KygekReachCustomizer](https://github.com/KygekTeam/KygekReachCustomizer) | **COMING SOON** | **COMING SOON** | **COMING SOON**
-
-### Visit the [@KygekTeam](https://github.com/KygekTeam) GitHub page to find out more projects from KygekTeam!
 
 **⚠️ WARNING:** Unofficial PocketMine-MP plugins with the names above could occasionally be found. I will not provide any support for unofficial versions of plugins above. My plugins may work on unofficial versions of PocketMine-MP, but I will never provide any support for them.
 
