@@ -32,12 +32,12 @@
 
 ## 🔌 Plugins
 
-### KygekDev (PocketMine-MP)
+### KygekDev (Visit the [@kdpls](https://github.com/kdpls) GitHub page to find out all plugins by KygekDev)
 
-- [AntiBedrock](https://github.com/KygekDev/AntiBedrock) - Prevent players from breaking bedrock on Creative mode
-- [IsOP](https://github.com/KygekDev/IsOP) - Get player height location relative to sea level
-- [Height](https://github.com/KygekDev/Height) - List OP players and check if player is OP using command
-- [BankUI](https://github.com/KygekDev/BankUI) - [FORKED] A BankUI Plugin For PocketMine-MP
+- [AntiBedrock](https://github.com/kdpls/AntiBedrock) - Prevent players from breaking bedrock on Creative mode
+- [IsOP](https://github.com/kdpls/IsOP) - Get player height location relative to sea level
+- [Height](https://github.com/kdpls/Height) - List OP players and check if player is OP using command
+- [BankUI](https://github.com/kdpls/BankUI) - [FORKED] A BankUI Plugin For PocketMine-MP
 
 ### KygekTeam (Visit the [@KygekTeam](https://github.com/KygekTeam) GitHub page to find out more projects from KygekTeam)
 
