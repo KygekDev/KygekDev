@@ -53,6 +53,7 @@
 [KygekFarmlandDecay](https://github.com/KygekTeam/KygekFarmlandDecay) | <a href="https://poggit.pmmp.io/p/KygekFarmlandDecay"><img src="https://poggit.pmmp.io/shield.dl.total/KygekFarmlandDecay"></a> | **COMING SOON** | **COMING SOON**
 [KygekLastPosition](https://github.com/KygekTeam/KygekLastPosition) | <a href="https://poggit.pmmp.io/p/KygekLastPosition"><img src="https://poggit.pmmp.io/shield.dl.total/KygekLastPosition"></a> | **COMING SOON** | **COMING SOON**
 [KygekEasyGamemode](https://github.com/KygekTeam/KygekEasyGamemode) | [kygekteam.org](https://kygekteam.org/kygekeasygamemode) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeasygamemode.615/) | **COMING SOON**
+[KygekClearConsole](https://github.com/KygekTeam/KygekClearConsole) | [kygekteam.org](https://kygekteam.org/kygekclearconsole) | **COMING SOON** | **COMING SOON**
 
 **⚠️ WARNING:** Unofficial PocketMine-MP plugins with the names above could occasionally be found. I will not provide any support for unofficial versions of plugins above. My plugins may work on unofficial versions of PocketMine-MP, but I will never provide any support for them.
 
