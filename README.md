@@ -68,4 +68,4 @@
 - [FlyPE](https://poggit.pmmp.io/p/FlyPE) by [@AGTHARN](https://github.com/AGTHARN)
 - [HideCommands](https://poggit.pmmp.io/p/HideCommands) by [@HimbeersaftLP](https://github.com/HimbeersaftLP)
 
-I can help you review your PocketMine-MP plugins to ensure they are ready to be released in Poggit. Just contact me via [KygekTeam Discord server](https://discord.gg/CXtqUZv).
+I can help you review your PocketMine-MP plugins to ensure they are ready to be released in Poggit. If you are interested, please join [my Discord server](https://discord.gg/TstDS9jZf7) so we can better discuss together regarding to your plugin(s).
