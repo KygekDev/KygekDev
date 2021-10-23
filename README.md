@@ -5,7 +5,7 @@
 
 ---
 
-# Hello, I'm KygekDev 👋
+# Hello there! 👋
 
 ## 👑 Founder & Leader of [@KygekTeam](https://github.com/KygekTeam)
 
@@ -69,3 +69,9 @@
 - [HideCommands](https://poggit.pmmp.io/p/HideCommands) by [@HimbeersaftLP](https://github.com/HimbeersaftLP)
 
 I can help you review your PocketMine-MP plugins to ensure they are ready to be released in Poggit. If you are interested, please join [my Discord server](https://discord.gg/TstDS9jZf7) so we can better discuss together regarding to your plugin(s).
+
+---
+
+## 👥 Platforms/Accounts
+
+Please visit [this page](https://github.com/KygekDev/KygekDev/blob/master/social-accounts.md) for more information.
