@@ -6,6 +6,8 @@
 - [Keybase](https://keybase.io/kygekdev)
 - [Guilded](https://guilded.gg/kygekdev)
 - [PMMP Forums](https://forums.pmmp.io/members/kygekdev.11509/)
+- [CloudburstMC](https://cloudburstmc.org/members/kygekdev.3757/)
+- [Crowdin](https://crowdin.com/profile/kygekdev)
 - **Discord:** KygekDev#6415
 
 ## Coming Soon
