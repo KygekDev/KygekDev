@@ -1,32 +1,50 @@
-
-<a href="https://discord.gg/CXtqUZv" target="_blank"><img src="https://kygekdev.github.io/images/KygekTeam.png?"></a>
-
-### NEW: Download prebuilt PocketMine-MP 4 PHAR and PHP binary without building yourself [HERE](https://r.kygekteam.org/pm4)!
+### NEW: Download the latest prebuilt PocketMine-MP 4 PHAR and Pterodactyl-compatible PHP binaries without building yourself [HERE](https://r.kygekteam.org/pm4)!
 
 ---
 
-# Hello there! 👋
+## Welcome To My Profile Page! 👋
 
-## 👑 Founder & Leader of [@KygekTeam](https://github.com/KygekTeam)
+My name is **KygekDev**, formerly known as [**Kygekraqmak**](https://github.com/Kygekraqmak) (2020) -- this is the reason you might have seen commits by Kygekraqmak. Currently I'm **learning many things**. I'm always looking for **help and support** from **anyone** that wants to **contribute and grow together** with me. My goal is to keep **learning** to **become a better person**.
 
-- 🔭 | Currently working on [@KygekTeam](https://github.com/KygekTeam), PocketMine-MP plugins and other projects
-- 🌱 | Currently learning many things
-- 👯 | Looking to collaborate with anyone who knows the PHP language and PocketMine-MP
-- 🤔 | Looking for help from anyone who wants to contribute
-- 📫 | Reach or contact me in the [KygekDev Community Discord server](https://discord.gg/TstDS9jZf7) or [KygekTeam Discord server](https://discord.gg/CXtqUZv)!
+---
+
+## ⚒ Jobs & Hobbies
+
+- Founder & Leader of [**KygekTeam**](https://github.com/KygekTeam)
+- Founder of [**The Kygek Foundation**](https://github.com/kygek)
+- **PocketMine-MP** Learner & Plugin Developer
+- Leader of a private **Minecraft city-building project**
+- Developer of a private **PocketMine-MP server**
+- **Minecraft: Bedrock Edition** player
+- Much more...
 
 ---
 
 ## 🔗 Links Worth Visiting
 
-- <a href="https://kygekteam.org">KygekTeam Website</a>
-- <a href="https://kygekdev.github.io">KygekDev Website</a>
-- <a href="https://kygekdev.github.io/posts/">Posts by KygekDev</a>
-- <a href="https://www.youtube.com/channel/UCa2QXlKFxXZEo_ClFXZ69Ag">YouTube Channel</a>
-- <a href="https://r.kygekteam.org/pmschool">PocketMine School</a>
-- <a href="https://r.kygekteam.org/pm4docker">PocketMine-MP 4 Docker Image</a>
-- <a href="https://r.kygekteam.org/jenkins">KygekTeam Jenkins</a> <a href="https://r.kygekteam.org/pm4">(PocketMine-MP 4)</a>
-- <a href="https://kygekteam.org/realtime">Poggit Real Time Downloads</a>
+### Websites
+
+- [**My Website**](https://kygekdev.github.io)
+- [**Posts by Me**](https://kygekdev.github.io/posts/)
+- [**KygekTeam Website**](https://kygek.team)
+- [**PocketMine School**](https://pocketmineschool.ml)
+- [**KygekTeam Jenkins**](https://jenkins.kygekteam.org) - Download the latest **Pterodactyl-compatible PHP binaries** for PocketMine-MP 4 here!
+
+### Discord Servers
+
+- [**My Discord server**](https://discord.gg/TstDS9jZf7)
+- [**KygekTeam Discord server**](https://discord.gg/CXtqUZv)
+
+### Social Media
+
+Please see the [**Platforms/Accounts**](#-platformsaccounts) section.
+
+### Other Links
+
+- [**PocketMine-MP 4 Docker Image**](https://r.kygekteam.org/pm4docker)
+- [**Poggit Real Time Downloads**](https://kygek.team/realtime)
+
+<!-- TODO: Add more links -->
 
 ---
 
@@ -75,3 +93,7 @@ I can help you review your PocketMine-MP plugins to ensure they are ready to be 
 ## 👥 Platforms/Accounts
 
 Please visit [this page](https://github.com/KygekDev/KygekDev/blob/master/social-accounts.md) for more information.
+
+---
+
+#### Thank you for reading my profile page!
