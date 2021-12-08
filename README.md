@@ -1,7 +1,7 @@
 
 <a href="https://discord.gg/CXtqUZv" target="_blank"><img src="https://kygekdev.github.io/images/KygekTeam.png?"></a>
 
-### NEW: Download prebuilt PocketMine-MP 4 PHAR and PHP binary without building yourself [HERE](https://r.kygekteam.org/pm4)!
+### NEW: Download prebuilt PocketMine-MP 4 Pterodactyl-compatible PHP binaries [HERE](https://jenkins.kygek.team/job/PMMP-4-PHP-Binary/)!
 
 ---
 
@@ -19,14 +19,13 @@
 
 ## 🔗 Links Worth Visiting
 
-- <a href="https://kygekteam.org">KygekTeam Website</a>
+- <a href="https://kygek.team">KygekTeam Website</a>
 - <a href="https://kygekdev.github.io">KygekDev Website</a>
 - <a href="https://kygekdev.github.io/posts/">Posts by KygekDev</a>
 - <a href="https://www.youtube.com/channel/UCa2QXlKFxXZEo_ClFXZ69Ag">YouTube Channel</a>
-- <a href="https://r.kygekteam.org/pmschool">PocketMine School</a>
-- <a href="https://r.kygekteam.org/pm4docker">PocketMine-MP 4 Docker Image</a>
-- <a href="https://r.kygekteam.org/jenkins">KygekTeam Jenkins</a> <a href="https://r.kygekteam.org/pm4">(PocketMine-MP 4)</a>
-- <a href="https://kygekteam.org/realtime">Poggit Real Time Downloads</a>
+- <a href="https://r.kygek.team/pmschool">PocketMine School</a>
+- <a href="https://r.kygek.team/jenkins">KygekTeam Jenkins</a>
+- <a href="https://kygek.team/realtime">Poggit Real Time Downloads</a>
 
 ---
 
@@ -52,8 +51,8 @@
 [KygekEatHeal](https://github.com/KygekTeam/KygekEatHeal) | <a href="https://poggit.pmmp.io/p/KygekEatHeal"><img src="https://poggit.pmmp.io/shield.dl.total/KygekEatHeal" alt="Poggit"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeatheal.614/) | **COMING SOON**
 [KygekFarmlandDecay](https://github.com/KygekTeam/KygekFarmlandDecay) | <a href="https://poggit.pmmp.io/p/KygekFarmlandDecay"><img src="https://poggit.pmmp.io/shield.dl.total/KygekFarmlandDecay" alt="Poggit"></a> | **COMING SOON** | **COMING SOON**
 [KygekLastPosition](https://github.com/KygekTeam/KygekLastPosition) | <a href="https://poggit.pmmp.io/p/KygekLastPosition"><img src="https://poggit.pmmp.io/shield.dl.total/KygekLastPosition" alt="Poggit"></a> | **COMING SOON** | **COMING SOON**
-[KygekEasyGamemode](https://github.com/KygekTeam/KygekEasyGamemode) | [kygekteam.org](https://kygekteam.org/kygekeasygamemode) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeasygamemode.615/) | **COMING SOON**
-[KygekClearConsole](https://github.com/KygekTeam/KygekClearConsole) | [kygekteam.org](https://kygekteam.org/kygekclearconsole) | **COMING SOON** | **COMING SOON**
+[KygekEasyGamemode](https://github.com/KygekTeam/KygekEasyGamemode) | [kygek.team](https://kygek.team/kygekeasygamemode) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeasygamemode.615/) | **COMING SOON**
+[KygekClearConsole](https://github.com/KygekTeam/KygekClearConsole) | [kygek.team](https://kygek.team/kygekclearconsole) | **COMING SOON** | **COMING SOON**
 
 **⚠️ WARNING:** Unofficial PocketMine-MP plugins with the names above could occasionally be found. I will not provide any support for unofficial versions of plugins above. My plugins may work on unofficial versions of PocketMine-MP, but I will never provide any support for them.
 
