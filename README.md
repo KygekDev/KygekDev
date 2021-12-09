@@ -58,7 +58,7 @@
 
 ---
 
-## 📝 Contributed Plugins
+## 📝 Contributed Plugins & Virions
 
 - [PerWorldPlayersList](https://poggit.pmmp.io/p/PerWorldPlayersList) by [@aminozomty](https://github.com/aminozomty)
 - [NichiJoinLocation](https://poggit.pmmp.io/p/NichiJoinLocation) by [@MadeAja](https://github.com/MadeAja)
@@ -66,6 +66,9 @@
 - [BadWordBlocker](https://poggit.pmmp.io/p/BadWordBlocker) by [@survanetwork](https://github.com/survanetwork)
 - [FlyPE](https://poggit.pmmp.io/p/FlyPE) by [@AGTHARN](https://github.com/AGTHARN)
 - [HideCommands](https://poggit.pmmp.io/p/HideCommands) by [@HimbeersaftLP](https://github.com/HimbeersaftLP)
+- [Scoreboard](https://poggit.pmmp.io/p/Scoreboard) by [@AyzrixYTB](https://github.com/AyzrixYTB) (Fix typo in README.md)
+
+For more plugins and virions, please see the [full list](https://github.com/stars/KygekDev/lists/contributed-pmmp-plugins) of contributed plugins and virions that I created on GitHub.
 
 I can help you review your PocketMine-MP plugins to ensure they are ready to be released in Poggit. If you are interested, please join [my Discord server](https://discord.gg/TstDS9jZf7) so we can better discuss together regarding to your plugin(s).
 
