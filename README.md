@@ -54,6 +54,8 @@
 [KygekEasyGamemode](https://github.com/KygekTeam/KygekEasyGamemode) | [kygek.team](https://kygek.team/kygekeasygamemode) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeasygamemode.615/) | **COMING SOON**
 [KygekClearConsole](https://github.com/KygekTeam/KygekClearConsole) | [kygek.team](https://kygek.team/kygekclearconsole) | **COMING SOON** | **COMING SOON**
 
+Looking for PocketMine-MP 4 plugins by KygekTeam? Check out the list in [this page](https://docs.kygek.team/plugins/pocketmine-mp-4.html).
+
 **⚠️ WARNING:** Unofficial PocketMine-MP plugins with the names above could occasionally be found. I will not provide any support for unofficial versions of plugins above. My plugins may work on unofficial versions of PocketMine-MP, but I will never provide any support for them.
 
 ---
