@@ -4166,6 +4166,25 @@
                                 <div class="details">
                                     <div>on branch <span class="code">metrics</span></div>
                                     <div class="commit">
+                                        <span class="sha">#7d4f45e</span>
+                                        <span class="message">Create METRICS.md</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">KygekDev/KygekDev</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">metrics</span></div>
+                                    <div class="commit">
                                         <span class="sha">#122ab85</span>
                                         <span class="message">Create metrics.yml</span>
                                     </div>
@@ -4311,25 +4330,6 @@ By the way, thank you very much for reporting the bug.
                                     <div class="commit">
                                         <span class="sha">#3e97e4b</span>
                                         <span class="message">Replace kygekteam.org URLs with kygek.team</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">KygekTeam/KygekExamplePlugin</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#77961cc</span>
-                                        <span class="message">[ci skip] Change docs.kygekteam.org to docs.kygek.team</span>
                                     </div>
                                 </div>
                             </section>
@@ -4578,7 +4578,7 @@ By the way, thank you very much for reporting the bug.
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.41708542713568 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="59.19597989949749 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -4607,7 +4607,7 @@ By the way, thank you very much for reporting the bug.
                   
                   
                 </div>
-                                <div class="text">Opened 76 pull requests</div>
+                                <div class="text">Opened 77 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -5054,7 +5054,7 @@ By the way, thank you very much for reporting the bug.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Dec 2021, 12:15:38  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 21 Dec 2021, 12:23:15  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
