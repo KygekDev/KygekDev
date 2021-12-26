@@ -10,7 +10,7 @@
 - [CloudburstMC](https://cloudburstmc.org/members/kygekdev.3757/)
 - [Crowdin](https://crowdin.com/profile/kygekdev)
 - [Cloudflare Community](https://community.cloudflare.com/u/kygekdev)
-- **Discord:** KygekDev#6415
+- **Discord:** KygekDev#6415 (Read [this page](https://kygekdev.github.io/private-support) before contacting me on Discord)
 
 ## Coming Soon
 

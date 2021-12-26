@@ -1,7 +1,7 @@
 name: Metrics
 
 on:
-  # Schedule updates (each hour)
+  # Schedule updates
   schedule: [{cron: "0 16 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
