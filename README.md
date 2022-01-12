@@ -1,3 +1,4 @@
+_Founder & Leader of:_
 
 <a href="https://discord.gg/CXtqUZv" target="_blank"><img src="https://kygekdev.github.io/images/KygekTeam.png?"></a>
 
@@ -19,13 +20,18 @@
 
 ## 🔗 Links Worth Visiting
 
-- <a href="https://kygek.team">KygekTeam Website</a>
+### KygekDev
+
 - <a href="https://kygekdev.github.io">KygekDev Website</a>
 - <a href="https://kygekdev.github.io/posts/">Posts by KygekDev</a>
 - <a href="https://www.youtube.com/channel/UCa2QXlKFxXZEo_ClFXZ69Ag">YouTube Channel</a>
-- <a href="https://r.kygek.team/pmschool">PocketMine School</a>
+
+### KygekTeam
+
+- <a href="https://kygek.team">KygekTeam Website</a>
 - <a href="https://r.kygek.team/jenkins">KygekTeam Jenkins</a>
 - <a href="https://kygek.team/realtime">Poggit Real Time Downloads</a>
+- <a href="https://r.kygek.team/pmschool">PocketMine School</a>
 
 ---
 
@@ -74,6 +80,7 @@ Looking for PocketMine-MP 4 plugins by KygekTeam? Check out the list in [this pa
 - [FlyPE](https://poggit.pmmp.io/p/FlyPE) by [@AGTHARN](https://github.com/AGTHARN)
 - [HideCommands](https://poggit.pmmp.io/p/HideCommands) by [@HimbeersaftLP](https://github.com/HimbeersaftLP)
 - [Scoreboard](https://poggit.pmmp.io/p/Scoreboard) by [@AyzrixYTB](https://github.com/AyzrixYTB) (Fix typo in README.md)
+- [LiveXYZ](https://poggit.pmmp.io/p/LiveXYZ) by [@dktapps-pm-pl](https://github.com/dktapps-pm-pl)
 
 For more plugins and virions, please see the [full list](https://github.com/stars/KygekDev/lists/contributed-pmmp-plugins) of contributed plugins and virions that I created on GitHub.
 
