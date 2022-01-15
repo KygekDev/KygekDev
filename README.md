@@ -10,11 +10,11 @@ _Founder & Leader of:_
 
 ## 👑 Founder & Leader of [@KygekTeam](https://github.com/KygekTeam)
 
-- 🔭 | Currently working on [@KygekTeam](https://github.com/KygekTeam), PocketMine-MP plugins and other projects
+- 🔭 | Currently working on [@KygekTeam](https://github.com/KygekTeam), Minecraft server related projects and other projects
 - 🌱 | Currently learning many things
-- 👯 | Looking to collaborate with anyone who knows the PHP language and PocketMine-MP
-- 🤔 | Looking for help from anyone who wants to contribute
-- 📫 | Reach or contact me in the [KygekDev Community Discord server](https://discord.gg/TstDS9jZf7) or [KygekTeam Discord server](https://discord.gg/CXtqUZv)!
+- 👯 | Looking to collaborate with anyone that knows Minecraft servers (PocketMine-MP, Nukkit, etc.) in KygekTeam or in other places
+- 🤔 | Looking for help from anyone that are interested to contribute
+- 📫 | Reach me in the [KygekDev Community Discord server](https://discord.gg/TstDS9jZf7)!
 
 ---
 
