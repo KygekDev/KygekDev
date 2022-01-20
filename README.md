@@ -84,7 +84,7 @@ Looking for PocketMine-MP 4 plugins by KygekTeam? Check out the list in [this pa
 
 For more plugins and virions, please see the [full list](https://github.com/stars/KygekDev/lists/contributed-pmmp-plugins) of contributed plugins and virions that I created on GitHub.
 
-I can help you review your PocketMine-MP plugins to ensure they are ready to be released in Poggit. If you are interested, please join [my Discord server](https://discord.gg/TstDS9jZf7) so we can better discuss together regarding to your plugin(s).
+**NOTE:** I can help you review your PocketMine-MP plugins to ensure they are ready to be released in Poggit. If you are interested, please join [my Discord server](https://discord.gg/TstDS9jZf7) so we can better discuss together regarding to your plugin(s).
 
 ---
 
