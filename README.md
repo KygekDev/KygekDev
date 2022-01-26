@@ -10,9 +10,9 @@ _Founder & Leader of:_
 
 ## 👑 Founder & Leader of [@KygekTeam](https://github.com/KygekTeam)
 
-- 🔭 | Currently working on [@KygekTeam](https://github.com/KygekTeam), Minecraft server related projects and other projects
+- 🔭 | Currently working on [@KygekTeam](https://github.com/KygekTeam), MSS*-related projects and other projects
 - 🌱 | Currently learning many things
-- 👯 | Looking to collaborate with anyone that knows Minecraft servers (PocketMine-MP, Nukkit, etc.) in KygekTeam or in other places
+- 👯 | Looking to collaborate in KygekTeam or in other places with anyone that knows MSS-es (PocketMine-MP, Nukkit, etc.)
 - 🤔 | Looking for help from anyone that are interested to contribute
 - 📫 | Reach me in the [KygekDev Community Discord server](https://discord.gg/TstDS9jZf7)!
 
@@ -35,17 +35,17 @@ _Founder & Leader of:_
 
 ---
 
-## 🔌 Plugins
+## 🔌 MSS Plugins
 
 ### KygekDev
 
-Visit the [@kdpls](https://github.com/kdpls) GitHub page to find out all plugins by KygekDev
+Visit the [@kdpls](https://github.com/kdpls) GitHub page to find out all MSS plugins by KygekDev
 
-- (**PM4**) [EduInvHide](https://github.com/kdpls/EduInvHide) - Hide Minecraft Education Edition items and blocks from creative inventory
-- [AntiBedrock](https://github.com/kdpls/AntiBedrock) - Prevent players from breaking bedrock on Creative mode
-- [IsOP](https://github.com/kdpls/IsOP) - Get player height location relative to sea level
-- [Height](https://github.com/kdpls/Height) - List OP players and check if player is OP using command
-- [BankUI](https://github.com/kdpls/BankUI) - [FORKED] A BankUI Plugin For PocketMine-MP
+- [EduInvHide](https://github.com/kdpls/EduInvHide) - Hide Minecraft Education Edition items and blocks from creative inventory (PM4)
+- [AntiBedrock](https://github.com/kdpls/AntiBedrock) - Prevent players from breaking bedrock on Creative mode (PM3)
+- [IsOP](https://github.com/kdpls/IsOP) - Get player height location relative to sea level (PM3)
+- [Height](https://github.com/kdpls/Height) - List OP players and check if player is OP using command (PM3)
+- [BankUI](https://github.com/kdpls/BankUI) - [FORKED] A BankUI Plugin For PocketMine-MP (PM3)
 
 ### KygekTeam
 
@@ -67,11 +67,11 @@ Visit the [@KygekTeam](https://github.com/KygekTeam) GitHub page to find out mor
 
 Looking for PocketMine-MP 4 plugins by KygekTeam? Check out the list in [this page](https://docs.kygek.team/plugins/pocketmine-mp-4.html).
 
-**⚠️ WARNING:** Unofficial PocketMine-MP plugins with the names above could occasionally be found. I will not provide any support for unofficial versions of plugins above. My plugins may work on unofficial versions of PocketMine-MP, but I will never provide any support for them.
+**⚠️ WARNING:** Unofficial MSS plugins with the names above could occasionally be found. I will not provide any support for unofficial versions of plugins above. My plugins may work on unofficial versions of MSS-es, but I will never provide any support for them.
 
 ---
 
-## 📝 Contributed Plugins & Virions
+## 📝 Contributed MSS Plugins & Virions
 
 - [PerWorldPlayersList](https://poggit.pmmp.io/p/PerWorldPlayersList) by [@aminozomty](https://github.com/aminozomty)
 - [NichiJoinLocation](https://poggit.pmmp.io/p/NichiJoinLocation) by [@MadeAja](https://github.com/MadeAja)
@@ -82,7 +82,7 @@ Looking for PocketMine-MP 4 plugins by KygekTeam? Check out the list in [this pa
 - [Scoreboard](https://poggit.pmmp.io/p/Scoreboard) by [@AyzrixYTB](https://github.com/AyzrixYTB) (Fix typo in README.md)
 - [LiveXYZ](https://poggit.pmmp.io/p/LiveXYZ) by [@dktapps-pm-pl](https://github.com/dktapps-pm-pl)
 
-For more plugins and virions, please see the [full list](https://github.com/stars/KygekDev/lists/contributed-pmmp-plugins) of contributed plugins and virions that I created on GitHub.
+For more MSS plugins and virions, please see the [full list](https://github.com/stars/KygekDev/lists/contributed-pmmp-plugins) of contributed MSS plugins and virions that I created on GitHub.
 
 **NOTE:** I can help you review your PocketMine-MP plugins to ensure they are ready to be released in Poggit. If you are interested, please join [my Discord server](https://discord.gg/TstDS9jZf7) so we can better discuss together regarding to your plugin(s).
 
@@ -97,3 +97,7 @@ You can see my GitHub metrics [here](/METRICS.md).
 ## 👥 Platforms/Accounts
 
 Please visit [this page](https://github.com/KygekDev/KygekDev/blob/master/social-accounts.md) for more information.
+
+---
+
+*MSS: Minecraft server software (e.g. PocketMine-MP, NukkitX)
