@@ -1,7 +1,3 @@
-_Founder & Leader of:_
-
-<a href="https://discord.gg/CXtqUZv" target="_blank"><img src="https://kygekdev.github.io/images/KygekTeam.png?"></a>
-
 ### NEW: Download prebuilt PocketMine-MP 4 Pterodactyl-compatible PHP binaries [HERE](https://jenkins.kygek.team/job/PMMP-4-PHP-Binary/)!
 
 ---
