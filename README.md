@@ -2,8 +2,6 @@
 
 ---
 
-# Hello there! 👋
-
 ## 👑 Founder & Leader of [@KygekTeam](https://github.com/KygekTeam)
 
 - 🔭 | Currently working on [@KygekTeam](https://github.com/KygekTeam), MSS*-related projects and other projects
