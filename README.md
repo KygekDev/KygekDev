@@ -49,7 +49,7 @@ Visit the [@KygekTeam](https://github.com/KygekTeam) GitHub page to find out mor
 --- | :---: | :---: | :---:
 [KygekRanksUI](https://github.com/KygekTeam/KygekRanksUI) | <a href="https://poggit.pmmp.io/p/KygekRanksUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRanksUI" alt="Poggit"></a> | **COMING SOON** | **COMING SOON**
 [KygekJoinUI](https://github.com/KygekTeam/KygekJoinUI) | <a href="https://poggit.pmmp.io/p/KygekJoinUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekJoinUI" alt="Poggit"></a> | **COMING SOON** | **COMING SOON**
-[KygekRulesUI](https://github.com/KygekTeam/KygekRulesUI) | <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI" alt="Poggit"></a><br>(+ 957) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekrulesui.600/) | **COMING SOON**
+[KygekRulesUI](https://github.com/KygekTeam/KygekRulesUI) | <a href="https://poggit.pmmp.io/p/KygekRulesUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRulesUI" alt="Poggit"></a> † | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekrulesui.600/) | **COMING SOON**
 [KygekWhitelistKick](https://github.com/KygekTeam/KygekWhitelistKick) | <a href="https://poggit.pmmp.io/p/KygekWhitelistKick"><img src="https://poggit.pmmp.io/shield.dl.total/KygekWhitelistKick" alt="Poggit"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekwhitelistkick.619/) | **COMING SOON**
 [KygekTagsShop](https://github.com/KygekTeam/KygekTagsShop) | <a href="https://poggit.pmmp.io/p/KygekTagsShop"><img src="https://poggit.pmmp.io/shield.dl.total/KygekTagsShop" alt="Poggit"></a> | **COMING SOON** | **COMING SOON**
 [KygekPingTPS](https://github.com/KygekTeam/KygekPingTPS) | <a href="https://poggit.pmmp.io/p/KygekPingTPS"><img src="https://poggit.pmmp.io/shield.dl.total/KygekPingTPS" alt="Poggit"></a> | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekpingtps.618/) | [spigotmc.org](https://www.spigotmc.org/resources/kygekpingtps.93808/)
@@ -58,6 +58,8 @@ Visit the [@KygekTeam](https://github.com/KygekTeam) GitHub page to find out mor
 [KygekLastPosition](https://github.com/KygekTeam/KygekLastPosition) | <a href="https://poggit.pmmp.io/p/KygekLastPosition"><img src="https://poggit.pmmp.io/shield.dl.total/KygekLastPosition" alt="Poggit"></a> | **COMING SOON** | **COMING SOON**
 [KygekEasyGamemode](https://github.com/KygekTeam/KygekEasyGamemode) | [kygek.team](https://kygek.team/kygekeasygamemode) | [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeasygamemode.615/) | **COMING SOON**
 [KygekClearConsole](https://github.com/KygekTeam/KygekClearConsole) | [kygek.team](https://kygek.team/kygekclearconsole) | **COMING SOON** | **COMING SOON**
+
+†+ 957 downloads
 
 Looking for PocketMine-MP 4 plugins by KygekTeam? Check out the list in [this page](https://docs.kygek.team/plugins/pocketmine-mp-4.html).
 
