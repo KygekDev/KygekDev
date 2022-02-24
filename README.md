@@ -77,6 +77,7 @@ Looking for PocketMine-MP 4 plugins by KygekTeam? Check out the list in [this pa
 - [HideCommands](https://poggit.pmmp.io/p/HideCommands) by [@HimbeersaftLP](https://github.com/HimbeersaftLP)
 - [Scoreboard](https://poggit.pmmp.io/p/Scoreboard) by [@AyzrixYTB](https://github.com/AyzrixYTB) (Fix typo in README.md)
 - [LiveXYZ](https://poggit.pmmp.io/p/LiveXYZ) by [@dktapps-pm-pl](https://github.com/dktapps-pm-pl)
+- [BedrockEconomy](https://poggit.pmmp.io/p/BedrockEconomy) by [@cooldogedev](https://github.com/cooldogedev) (Temporarily disable PHPStan and syntax error lints)
 
 For more MSS plugins and virions, please see the [full list](https://github.com/stars/KygekDev/lists/contributed-pmmp-plugins) of contributed MSS plugins and virions that I created on GitHub.
 
