@@ -94,7 +94,7 @@ You can see my GitHub metrics [here](/METRICS.md).
 
 ## 👥 Platforms/Accounts
 
-Please visit [this page](https://github.com/KygekDev/KygekDev/blob/master/social-accounts.md) for more information.
+Please see [this page](https://github.com/KygekDev/KygekDev/blob/master/social-accounts.md) for more information.
 
 ---
 
