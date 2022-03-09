@@ -1,1 +1,4 @@
-powershell (Add-Type '[DllImport(\"user32.dll\")]^public static extern int SendMessage(int hWnd, int hMsg, int wParam, int lParam);' -Name a -Pas)::SendMessage(-1,0x0112,0xF170,2)
+@echo off
+
+echo Sorry, the script has been moved to https://gist.github.com/KygekDev/542399e0b2d9c5cbc2a3756edfd8a73d. We apologize for the inconvenience.
+pause
