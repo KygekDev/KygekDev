@@ -3147,7 +3147,7 @@ I personally think it's better to place this script in GitHub Gist rather than i
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 264k out of 86m users</span>
+                                    <span class="gh">ranked 265k out of 86m users</span>
                                 </div>
                                 <div class="text">Published 67 public repositories</div>
                             </div>
@@ -3753,7 +3753,7 @@ I personally think it's better to place this script in GitHub Gist rather than i
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Mar 2022, 14:03:52  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 9 Mar 2022, 16:32:27  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
