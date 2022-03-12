@@ -1,5 +1,3 @@
-### NEW: Download prebuilt PocketMine-MP 4 Pterodactyl-compatible PHP binaries [HERE](https://jenkins.kygek.team/job/PMMP-4-PHP-Binary/)!
-
 ---
 
 ## 👑 Founder & Leader of [@KygekTeam](https://github.com/KygekTeam)
