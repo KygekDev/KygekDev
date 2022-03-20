@@ -1,10 +1,10 @@
 ## 👑 Founder & Leader of [@KygekTeam](https://github.com/KygekTeam)
 
-- 🔭 | Currently working on [@KygekTeam](https://github.com/KygekTeam), MSS*-related projects and other projects
-- 🌱 | Currently learning many things
-- 👯 | Looking to collaborate in KygekTeam or in other places with anyone that knows MSS-es (PocketMine-MP, Nukkit, etc.)
-- 🤔 | Looking for help from anyone that are interested to contribute
-- 📫 | Reach me in the [KygekDev Community Discord server](https://discord.gg/TstDS9jZf7)!
+- 🔭 Currently working on [@KygekTeam](https://github.com/KygekTeam), MSS*-related projects and other projects
+- 🌱 Currently learning many things
+- 👯 Looking to collaborate in KygekTeam or in other places with anyone that knows MSS-es (PocketMine-MP, Nukkit, etc.)
+- 🤔 Looking for help from anyone that are interested to contribute
+- 📫 Reach me in the [KygekDev Community Discord server](https://discord.gg/TstDS9jZf7)!
 
 ---
 
