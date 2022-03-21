@@ -1,3 +1,11 @@
+---
+
+## Latest Information of KygekTeam
+
+KygekTeam is looking for someone that's interested becoming its new leader. Besides experienced in PMMP plugin development, the new leader also need to meet some requirements. For more information, please visit [this page](https://kygek.team/lookingfornewleader).
+
+---
+
 ## 👑 Founder & Leader of [@KygekTeam](https://github.com/KygekTeam)
 
 - 🔭 Currently working on [@KygekTeam](https://github.com/KygekTeam), MSS*-related projects and other projects
