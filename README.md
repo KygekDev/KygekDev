@@ -67,7 +67,9 @@ Visit the [@KygekTeam](https://github.com/KygekTeam) GitHub page to find out mor
 
 Looking for PocketMine-MP 4 plugins by KygekTeam? Check out the list in [this page](https://docs.kygek.team/plugins/pocketmine-mp-4.html).
 
-**⚠️ WARNING:** Unofficial MSS plugins with the names above could occasionally be found. I will not provide any support for unofficial versions of plugins above. My plugins may work on unofficial versions of MSS-es, but I will never provide any support for them.
+#### ⚠️ WARNING
+
+Unofficial MSS plugins with the names above could occasionally be found. I will not provide any support for unofficial versions of plugins above. My plugins may work on unofficial versions of MSS-es, but I will never provide any support for them.
 
 ---
 
