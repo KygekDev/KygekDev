@@ -2,7 +2,7 @@
 
 ## Latest Information of KygekTeam
 
-KygekTeam is looking for someone that's interested becoming its new leader. Besides experienced in PMMP plugin development, the new leader also need to meet some requirements. For more information, please visit [this page](https://kygek.team/lookingfornewleader).
+KygekTeam is looking for people that are interested to maintain its repositories, including its PocketMine-MP plugins and other notable projects. For more information, please visit [this page](https://kygek.team/lookingfornewmaintainer).
 
 ---
 
