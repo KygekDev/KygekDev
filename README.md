@@ -31,6 +31,10 @@ KygekTeam is looking for people that are interested to maintain its repositories
 - <a href="https://kygek.team/realtime">Poggit Real Time Downloads</a>
 - <a href="https://r.kygek.team/pmschool">PocketMine School</a>
 
+### The Kygek Foundation (TKF)
+
+- <a href="https://foundation.kygek.team">TKF Website</a>
+
 ---
 
 ## 🔌 MSS Plugins
