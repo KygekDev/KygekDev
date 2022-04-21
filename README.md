@@ -37,6 +37,16 @@ KygekTeam is looking for people that are interested to maintain its repositories
 
 ---
 
+## 📑 Popular Repositories
+
+- [Minecraft Bedrock Default Vanilla Textures Library](https://github.com/KygekDev/default-textures)
+- [KygekDev Website](https://github.com/KygekDev/kygekdev.github.io)
+- [Posts by KygekDev](https://github.com/KygekDev/posts)
+- [PocketMine School](https://github.com/PocketMine-School/Pocketmine-School)
+- [Poggit Real Time Downloads](https://github.com/KygekTeam/Poggit-Real-Time)
+
+---
+
 ## 🔌 MSS Plugins
 
 ### KygekDev
