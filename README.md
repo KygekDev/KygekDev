@@ -28,9 +28,9 @@ KygekTeam is looking for people that are interested to maintain its repositories
 ### KygekTeam
 
 - <a href="https://kygek.team">KygekTeam Website</a>
-- <a href="https://r.kygek.team/jenkins">KygekTeam Jenkins</a>
+- <a href="https://jenkins.kygek.team">KygekTeam Jenkins</a>
 - <a href="https://kygek.team/realtime">Poggit Real Time Downloads</a>
-- <a href="https://r.kygek.team/pmschool">PocketMine School</a>
+- <a href="https://pocketmineschool.ml">PocketMine School</a>
 
 ### The Kygek Foundation (TKF)
 
