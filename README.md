@@ -64,7 +64,7 @@ Visit the [@kdpls](https://github.com/kdpls) GitHub page to find out all MSS plu
 
 Visit the [@KygekTeam](https://github.com/KygekTeam) GitHub page to find out more projects from KygekTeam
 
-**Plugin** | **PMMP Download** | **NukkitX Download** | **Spigot/Paper Download**
+**Plugin** | **PMMP Download*** | **NukkitX Download** | **Spigot/Paper Download**
 --- | :---: | :---: | :---:
 [KygekRanksUI](https://github.com/KygekTeam/KygekRanksUI) | <a href="https://poggit.pmmp.io/p/KygekRanksUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekRanksUI" alt="Poggit"></a> | **COMING SOON** | **COMING SOON**
 [KygekJoinUI](https://github.com/KygekTeam/KygekJoinUI) | <a href="https://poggit.pmmp.io/p/KygekJoinUI"><img src="https://poggit.pmmp.io/shield.dl.total/KygekJoinUI" alt="Poggit"></a> | **COMING SOON** | **COMING SOON**
@@ -78,9 +78,9 @@ Visit the [@KygekTeam](https://github.com/KygekTeam) GitHub page to find out mor
 [KygekEasyGamemode](https://github.com/KygekTeam/KygekEasyGamemode) | Download in [kygek.team](https://kygek.team/kygekeasygamemode) | Download in [cloudburstmc.org](https://cloudburstmc.org/resources/kygekeasygamemode.615/) | **COMING SOON**
 [KygekClearConsole](https://github.com/KygekTeam/KygekClearConsole) | Download in [kygek.team](https://kygek.team/kygekclearconsole) | **COMING SOON** | **COMING SOON**
 
-†+ 957 downloads
+*Now maintained by [@thebigcrafter](https://github.com/thebigcrafter)
 
-Looking for PocketMine-MP 4 plugins by KygekTeam? Check out the list in [this page](https://docs.kygek.team/plugins/pocketmine-mp-4.html).
+†+ 957 downloads
 
 #### ⚠️ WARNING
 
