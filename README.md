@@ -109,7 +109,7 @@ For more MSS plugins and virions, please see the [full list](https://github.com/
 
 ## 📊 Metrics
 
-You can see my GitHub metrics [here](/METRICS.md).
+See my GitHub metrics [here](/METRICS.md).
 
 ---
 
