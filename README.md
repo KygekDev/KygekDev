@@ -35,6 +35,7 @@ KygekTeam is looking for people that are interested to maintain its repositories
 ### The Kygek Foundation (TKF)
 
 - <a href="https://foundation.kygek.team">TKF Website</a>
+- <a href="https://foundation.kygek.team/CBP/">CBP Website</a>
 
 ---
 
