@@ -1,5 +1,11 @@
 ---
 
+## About KygekDev's Activity
+
+I am quite busy right now to have the time and motivation to continue my work as KygekDev. I might come back in a few weeks or months after writing this information, with new ideas and projects. So please do not worry about me dying, I am still active on Discord but doesn't message as much as it used to be. I will let you know when I'm back active.
+
+---
+
 ## Latest Information of KygekTeam
 
 KygekTeam is looking for people that are interested to maintain its repositories, including its PocketMine-MP plugins and other notable projects. For more information, please visit [this page](https://kygek.team/lookingfornewmaintainer).
