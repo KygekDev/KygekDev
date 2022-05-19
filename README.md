@@ -26,22 +26,22 @@ KygekTeam is looking for people that are interested to maintain its repositories
 
 ### KygekDev
 
-- <a href="https://kygekdev.github.io">KygekDev Website</a>
-- <a href="https://kygekdev.github.io/posts/">Posts by KygekDev</a>
-- <a href="https://www.youtube.com/channel/UCa2QXlKFxXZEo_ClFXZ69Ag">YouTube Channel</a>
-- <a href="https://skyline.github.com/KygekDev">Contributions Skyline</a>
+- [KygekDev Website](https://kygekdev.github.io)
+- [Posts by KygekDev](https://kygekdev.github.io/posts/)
+- [YouTube Channel](https://www.youtube.com/channel/UCa2QXlKFxXZEo_ClFXZ69Ag)
+- [Contributions Skyline](https://skyline.github.com/KygekDev)
 
 ### KygekTeam
 
-- <a href="https://kygek.team">KygekTeam Website</a>
-- <a href="https://jenkins.kygek.team">KygekTeam Jenkins</a>
-- <a href="https://kygek.team/realtime">Poggit Real Time Downloads</a>
-- <a href="https://pocketmineschool.ml">PocketMine School</a>
+- [KygekTeam Website](https://kygek.team)
+- [KygekTeam Jenkins](https://jenkins.kygek.team)
+- [Poggit Real Time Downloads](https://kygek.team/realtime)
+- [PocketMine School](https://pocketmineschool.ml)
 
 ### The Kygek Foundation (TKF)
 
-- <a href="https://foundation.kygek.team">TKF Website</a>
-- <a href="https://foundation.kygek.team/CBP/">CBP Website</a>
+- [TKF Website](https://foundation.kygek.team)
+- [CBP Website](https://foundation.kygek.team/CBP/)
 
 ---
 
