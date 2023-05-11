@@ -6,19 +6,17 @@ I am quite busy right now to have the time and motivation to continue my work as
 
 ---
 
-## Latest Information of KygekTeam
+# An Ex-Developer 🙁
 
-KygekTeam is looking for people that are interested to maintain its repositories, including its PocketMine-MP plugins and other notable projects. For more information, please visit [this page](https://kygek.team/lookingfornewmaintainer).
+I hope I could be back, but school's so busy I can't do anything for it. I hate it, wish I could choose a better school but it's difficult in my country.
 
----
+(Let's hope I'll be back in 2024 when I start college 🙏)
 
-## 👑 Founder & Leader of [@KygekTeam](https://github.com/KygekTeam)
-
-- 🔭 Currently working on [@KygekTeam](https://github.com/KygekTeam), MSS*-related projects and others
-- 🌱 Currently learning many things
-- 👯 Looking to collaborate in KygekTeam or in other places with anyone that knows MSS-es (PocketMine-MP, Nukkit, etc.)
-- 🤔 Looking for help from anyone that are interested to contribute
-- 📫 Reach me in the [KygekDev Community Discord server](https://discord.gg/TstDS9jZf7)!
+- 🏴 Founded and worked on [@KygekTeam](https://github.com/KygekTeam), MSS*-related and other projects
+- 🌱 Currently doing IRL work
+- 👯 Looking to collaborate with anyone
+- 🤔 Looking for help from anyone that wishes to teach, help and provide anything I need
+- 📫 Reach me in the [Kygek Community Discord server](https://discord.gg/TstDS9jZf7)!
 
 ---
 
