@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2740" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2805" class="">
     <defs>
         <style/>
     </defs>
@@ -9,7 +9,7 @@
             <section>
                 <h1 class="field">
                     <img class="avatar" src="data:image/png;base64,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" width="20" height="20" />
-                    <span>KygekDev</span>
+                    <span>Kygek</span>
                 </h1>
                 <div class="row">
                     <section>
@@ -35,15 +35,15 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 9 repositories
+                            Contributed to 10 repositories
                         </div>
                     </section>
                 </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1476 Commits
+                            1477 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,7 +232,7 @@
                 </h2>
             </section>
             <div class="column largeable">
-                <h3>On KygekDev's repositories</h3>
+                <h3>On Kygek's repositories</h3>
                 <div class="row fill-width">
                     <section class="column">
                         <h3 class="no-margin-top">Issues</h3>
@@ -385,13 +385,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="138.75148657389056" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="138.75148657389056" y="0" width="120.32231008366543" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="259.073796657556" y="0" width="113.54837363600325" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="372.62217029355924" y="0" width="49.308268480460676" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="421.93043877401993" y="0" width="37.66646497944877" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.59690375346867" y="0" width="0.30904045567401783" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="459.90594420914266" y="0" width="0.09405579085730978" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="138.7572766916352" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="138.7572766916352" y="0" width="120.32733114945647" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="259.0846078410917" y="0" width="113.53391616416633" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="372.618524005258" y="0" width="49.31032612097565" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="421.9288501262337" y="0" width="37.66803680597575" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.5968869322095" y="0" width="0.30905335197279193" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="459.90594028418224" y="0" width="0.09405971581780624" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2543,6 +2543,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2561,13 +2566,8 @@
                             <div class="entry">
                                 <span class="value">41</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                2
-                                <div class="bottom">June</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 3
+                                <div class="bottom">June</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2629,6 +2629,11 @@
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 15
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                16
+                            </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -2637,13 +2642,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                2
-                                <div class="bottom">June</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 3
+                                <div class="bottom">June</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2704,6 +2704,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 15
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                16
                             </div>
                         </div>
                     </section>
@@ -2790,6 +2795,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">KygekDev/kygekdev.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7bf770e</div>
+                                        <div class="message">Updated Discord username</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2976,7 +3001,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="141.75879396984925 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="142.53768844221105 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2998,7 +3023,7 @@
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 183 times</div>
+                                <div class="text">Repositories have been deployed 184 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3011,7 +3036,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.65331964407939 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.5 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3269,7 +3294,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 758k out of 408m repositories</span>
+                                    <span class="gh">ranked 758k out of 409m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 14 times</div>
                             </div>
@@ -3307,7 +3332,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 739k out of 408m repositories</span>
+                                    <span class="gh">ranked 764k out of 409m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 31 stars</div>
                             </div>
@@ -3461,7 +3486,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jun 2023, 16:22:45  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 Jun 2023, 16:22:53  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
