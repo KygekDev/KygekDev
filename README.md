@@ -1,3 +1,9 @@
+## Earn Passive Income!
+
+Earn **starting from $20** from your devices by doing nothing with Honeygain!
+
+Use the following link to get started with **$3 bonus on register**: https://r.honeygain.me/MANUSFC1F4
+
 ---
 
 ## About KygekDev's Activity
