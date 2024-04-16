@@ -8,18 +8,14 @@ Use the following link to get started with **$3 bonus on register**: https://r.h
 
 ## About KygekDev's Activity
 
-I am quite busy right now to have the time and motivation to continue my work as KygekDev. I might come back in a few weeks or months after writing this information, with new ideas and projects. So please do not worry about me dying, I am still active on Discord but doesn't message as much as it used to be. I will let you know when I'm back active.
+After almost 3 years of thriving, high school is almost done for me. I'm currently working on a final task without needing to go and study at school again, which means now I have more free time to resume working on several interesting things as soon as possible. The final task will be completely done on mid-May and since that date I will be completely free from school tasks until my college starts on late July or early August. Hopefully everything will go as planned that eventually lead to me being active again on GitHub.
 
 ---
 
-# An Ex-Developer 🙁
-
-I hope I could be back, but school's so busy I can't do anything for it. I hate it, wish I could choose a better school but it's difficult in my country.
-
-(Let's hope I'll be back in 2024 when I start college 🙏)
+# Short Profile
 
 - 🏴 Founded and worked on [@KygekTeam](https://github.com/KygekTeam), MSS*-related and other projects
-- 🌱 Currently doing IRL work
+- 🌱 Currently doing IRL work & soon will be back!
 - 👯 Looking to collaborate with anyone
 - 🤔 Looking for help from anyone that wishes to teach, help and provide anything I need
 - 📫 Reach me in the [Kygek Community Discord server](https://discord.gg/TstDS9jZf7)!
