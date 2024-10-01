@@ -1,18 +1,4 @@
-## Earn Passive Income!
-
-Earn **starting from $20** from your devices by doing nothing with Honeygain!
-
-Use the following link to get started with **$3 bonus on register**: https://r.honeygain.me/MANUSFC1F4
-
----
-
-## About KygekDev's Activity
-
-After almost 3 years of thriving, high school is almost done for me. I'm currently working on a final task without needing to go and study at school again, which means now I have more free time to resume working on several interesting things as soon as possible. The final task will be completely done on mid-May and since that date I will be completely free from school tasks until my college starts on late July or early August. Hopefully everything will go as planned that eventually lead to me being active again on GitHub.
-
----
-
-# Short Profile
+# Profile
 
 - 🏴 Founded and worked on [@KygekTeam](https://github.com/KygekTeam), MSS*-related and other projects
 - 🌱 Currently doing IRL work & soon will be back!
