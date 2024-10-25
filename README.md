@@ -8,7 +8,7 @@
 
 # Hi there 👋
 
-**KygekDev**, simply known as **Kygek**, is an Indonesian student, (kind of) gamer and software developer who has had experience working with tech for over 7 years. He has been playing his favorite videogame, Minecraft, for over 10 years and has contributed on various creations and projects throughout the Internet. He is currently pursuing his studies on Computer Science in a university in his home country and he is planning to do many things for the Community in the near future!
+**KygekDev**, simply known as **Kygek**, is an Indonesian student, philosopher and software developer who has had experience working with tech for over 7 years. He has been playing his favorite videogame, Minecraft, for over 10 years and has contributed on various creations and projects throughout the Internet. He is currently pursuing his studies on Computer Science in a university in his home country and he is planning to do many things for the Community in the near future!
 
 ## 📜 Where is my previous profile?
 
