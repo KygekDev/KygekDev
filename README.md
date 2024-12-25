@@ -14,6 +14,6 @@
 
 You can view it [here](resume.md). I moved it as part of my GitHub profile overhaul.
 
-## ✉️ Looking forward to contact me?
+## ✉️ Looking forward to get in touch with me?
 
-Just contact me on Discord (username: kygekdev) or through my [email](mailto:kygekdev@gmail.com?subject=%3CEnter%20your%20subject%3E%20-%20From%20GitHub).
+You can join my [Discord server](https://discord.gg/TstDS9jZf7) or contact me through my [email address](mailto:kygekdev@gmail.com?subject=%3CEnter%20your%20subject%3E%20-%20From%20GitHub).
