@@ -1,14 +1,6 @@
-> ## Earn Passive Income!
->
-> Earn **starting from $20** from your devices by doing nothing with Honeygain!
->
-> Use the following link to get started with **$3 bonus on register**: https://r.honeygain.me/MANUSFC1F4
->
----
-
 # Hi there 👋
 
-**KygekDev**, simply known as **Kygek**, is an Indonesian student, philosopher and software developer who has had experience working with tech for over 7 years. He has been playing his favorite videogame, Minecraft, for over 10 years and has contributed on various creations and projects throughout the Internet. He is currently pursuing his studies on Computer Science in a university in his home country and he is planning to do many things for the Community in the near future!
+**KygekDev**, simply known as **Kygek**, is an Indonesian student, philosopher and software developer who has had experience working with tech for over seven years. He has been playing his favorite video game, Minecraft, for over eleven years and has contributed on various creations and projects throughout the Internet, especially during the COVID-19 pandemic. He founded KygekTeam (initially Kygek Development) in 2020, where he contributed towards a lot of Minecraft-related projects for two years. He also founded The Kygek Foundation in 2023 to prepare for his next phase of contributions to the society. He is currently pursuing his studies on Computer Science in a university in his home country and is planning to do many things for the society through The Kygek Foundation in the near future!
 
 ## 📜 Where is my previous profile?
 
