@@ -4,7 +4,7 @@
 
 KygekDev began his contributions in the Minecraft industry by founding and managing several Minecraft servers, predominantly between 2020 and 2021. He founded KygekTeam (initially Kygek Development) in 2020,[^2] where he contributed towards a lot of Minecraft-related projects for two years. He also founded The Kygek Foundation in 2023 to prepare for his next phase of contributions to the global society for God's glory.[^3]
 
-Besides information and communications technology, KygekDev is also interested in engaging with several other topics, such as sociology, theology, and philosophy, all primarily within the Christian framework. He is currently pursuing his studies on Computer Science in a university in his home country and is planning to do many things for the global society through The Kygek Foundation in the near future!
+Besides information and communications technology, KygekDev is also interested in engaging with several other topics, such as theology, philosophy, and many others, all primarily within the Christian framework. He is currently pursuing his studies on Computer Science in a university in his home country and is planning to do many things for the global society through The Kygek Foundation in the near future!
 
 ## 📜 Where is my previous profile?
 
