@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**KygekDev**, also known simply as **Kygek**, is an Indonesian student, Christian lay theologian and philosopher,[^1] and software developer with over seven years of experience in information and communications technology. He has been playing his favorite video game, Minecraft, for over eleven years and has contributed on various creations and projects throughout the Internet, especially during the COVID-19 pandemic.
+**KygekDev**, also known simply as **Kygek**, is an Indonesian student, Christian lay theologian and philosopher,[^1] and software developer with over nine years of experience in information and communications technology. He has been playing his favorite video game, Minecraft, for over thirteen years and has contributed on various creations and projects throughout the Internet, especially during the COVID-19 pandemic.
 
 KygekDev began his contributions in the Minecraft industry by founding and managing several Minecraft servers, predominantly between 2020 and 2021. He founded KygekTeam (initially Kygek Development) in 2020,[^2] where he contributed towards a lot of Minecraft-related projects for two years. He also founded The Kygek Foundation in 2023 to prepare for his next phase of contributions to the global society for God's glory.[^3]
 
