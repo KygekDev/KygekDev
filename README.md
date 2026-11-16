@@ -14,6 +14,6 @@ You can view it [here](resume.md). I moved it as part of my GitHub profile overh
 
 You can join my [Discord server](https://discord.gg/TstDS9jZf7) or contact me through my [email address](mailto:kygekdev@gmail.com?subject=%3CEnter%20your%20subject%3E%20-%20From%20GitHub).
 
-[^1]: Example of KygekDev's philosophical engagement: https://kygekdev.github.io/posts/who-is-truly-faithful-in-our-lives
+[^1]: Example of Kygek's philosophical engagement: https://kygekdev.github.io/posts/who-is-truly-faithful-in-our-lives
 [^2]: https://web.archive.org/web/20220726023947/https://kygek.team/about
 [^3]: https://kygek.github.io/

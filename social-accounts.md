@@ -1,8 +1,8 @@
 # Social Accounts
 
-- [YouTube](https://youtube.com/KygekDev)
+- [YouTube](https://youtube.com/@Kygekraqmak)
 - [Twitter](https://twitter.com/kygekdev)
-- [Instagram (Not Active)](https://instagram.com/kygekdev/)
+- [Instagram](https://instagram.com/kygekdev/)
 - [Keybase](https://keybase.io/kygekdev)
 - [GitLab](https://gitlab.com/KygekDev)
 - [Guilded](https://guilded.gg/kygekdev)
@@ -10,9 +10,4 @@
 - [CloudburstMC](https://cloudburstmc.org/members/kygekdev.3757/)
 - [Crowdin](https://crowdin.com/profile/kygekdev)
 - [Cloudflare Community](https://community.cloudflare.com/u/kygekdev)
-- **Discord:** KygekDev#6415 (Read [this page](https://kygekdev.github.io/private-support) before contacting me on Discord)
-
-## Coming Soon
-
-- Facebook (I'm unsure about this)
-- Reddit
+- [Discord Server](https://kygekdev.github.io/discord) (You can get in touch with Kygekraqmak via Discord through the server!)
